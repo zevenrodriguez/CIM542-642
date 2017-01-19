@@ -2,8 +2,11 @@
 
 ##About the class
 
+[Intro to Physical Computing]()
+
 [Internet of Crap](https://www.engadget.com/2017/01/11/internet-of-crap-ces2017/#gallery=469974&slide=4343055&index=0)
 
+[Arduino subreddit](https://www.reddit.com/r/arduino/)
 
 ###WHAT IS GIT?
 
@@ -61,8 +64,10 @@ If configured correctly, will upload your changes to github.
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+###[Show how to create a wiki](https://help.github.com/articles/about-github-wikis/)
 
-#Homework
+
+#Homework - For Monday
 
 * Create a Repository
  * Name it: Physical Computing
@@ -70,5 +75,7 @@ If configured correctly, will upload your changes to github.
 * Create a readme.md
  * Create a Fantasy Machine
   * Create a crazy machine, this machine can be useful or be self servient. The most important is to think about how a user is going to operate your machine. Think of knobs, switches, levers, etc
-  * Example: [Deatomizer]()
+  * Example: [Deatomizer](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/deatomizer.jpg)
+* Purchase Arduino Kit @ UM Bookstore or [Adafruit](https://www.adafruit.com/products/1078)
+
 
