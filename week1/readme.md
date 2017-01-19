@@ -2,7 +2,7 @@
 
 ##About the class
 
-[Intro to Physical Computing]()
+[Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/physicalcomputing.pdf)
 
 [Internet of Crap](https://www.engadget.com/2017/01/11/internet-of-crap-ces2017/#gallery=469974&slide=4343055&index=0)
 
