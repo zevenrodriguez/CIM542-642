@@ -2,7 +2,7 @@
 
 ###Week 1: Jan 16th - MLK Day
 
-###Week 2: Jan 23th - Intro to Physical Computing
+###Week 2: [Jan 23th - Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/tree/master/week1)
 
 ###Week 3: Jan 30st - Basic Electricity and Electronics, Getting Started with Arduino
 
@@ -41,3 +41,7 @@ Week 14: Apr 17th
 
 Week 15: Apr 24th 
 User Testing
+
+##Homework
+
+All HW and assignments should have a designated folder. Include a readme.md, that has a brief summary of what you did as well as a link video and/or image documentation for the work done.

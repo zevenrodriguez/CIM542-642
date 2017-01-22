@@ -64,7 +64,6 @@ If configured correctly, will upload your changes to github.
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-###[Show how to create a wiki](https://help.github.com/articles/about-github-wikis/)
 
 
 #Homework - For Monday
