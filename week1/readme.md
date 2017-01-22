@@ -1,5 +1,11 @@
 #Week 1 Notes
 
+* About the class
+* Git
+ * Git Refresher
+ * Markdown
+* Electricity and Components
+
 ##About the class
 
 [Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/physicalcomputing.pdf)

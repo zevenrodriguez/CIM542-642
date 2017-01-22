@@ -1,5 +1,7 @@
 #Welcome to Physical Computing
 
+##[Syllabus](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/CIM542-642-S17-Physical%20Computing.pdf)
+
 ###Week 1: Jan 16th - MLK Day
 
 ###Week 2: [Jan 23th - Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/tree/master/week1)
