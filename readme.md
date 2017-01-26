@@ -6,7 +6,7 @@
 
 ###Week 2: [Jan 23th - Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/tree/master/week1)
 
-###Week 3: Jan 30st - Basic Electricity and Electronics, Getting Started with Arduino
+###Week 3: [Jan 30st - Basic Electricity and Electronics, Getting Started with Arduino](https://github.com/zevenrodriguez/CIM542-642/tree/master/week2)
 
 ###Week 4: Feb 6th - Digital Input/Output
 
