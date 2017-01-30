@@ -1,5 +1,6 @@
 #Getting started with Arduino
 
+* Fantasy Machine
 * Go over kit
 * Breadboard
 * Software
