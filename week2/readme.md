@@ -1,5 +1,7 @@
 #Getting started with Arduino
 
+![](https://i.imgur.com/kMPdz0J.gif)
+
 * Fantasy Machine
 * Go over kit
 * Breadboard
