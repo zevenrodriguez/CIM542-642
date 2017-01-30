@@ -46,3 +46,6 @@ Open File>Examples>Basics>Blink
 
 Create a sketch that turns on and off 3 LEDS. Create a stop light, blinker, or a cylon.
 
+Create a week2 folder upload code and include a link to video/images/gif in a readme
+
+
