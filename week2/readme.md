@@ -1,6 +1,6 @@
 #Getting started with Arduino
 
-![](https://i.imgur.com/kMPdz0J.gif)
+![Robo Fish](https://i.imgur.com/kMPdz0J.gifv)
 
 * Fantasy Machine
 * Go over kit
