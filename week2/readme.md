@@ -41,7 +41,7 @@ In a series circuit, the current through each of the components is the same, and
 
 ###Basic Arduino LED
 
-![Basic Arduino LED](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/BasicLEDArduino.jpg)
+![Basic Arduino LED](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/BasicLEDArduino_bb.jpg)
 
 Open File>Examples>Basics>Blink
 
