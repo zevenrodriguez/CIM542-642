@@ -30,13 +30,7 @@
 ###Connecting a LED to power
 ![Simple LED Setup](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/basicLED_bb.jpg)
 
-###Series and Parallel
 
-![Parallel](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/parallel_bb.jpg)
-
-![Serial](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/series_bb.jpg)
-
-In a series circuit, the current through each of the components is the same, and the voltage across the circuit is the sum of the voltages across each component. In a parallel circuit, the voltage across each of the components is the same, and the total current is the sum of the currents through each component.
 
 
 ###Basic Arduino LED
