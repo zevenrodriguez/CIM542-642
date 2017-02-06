@@ -73,3 +73,5 @@ To send messages back from the arduino to the computer you can use:
 
 Use 2 switches to turn on 2 leds. Think of a use case, ie. game, application, and toy. Use paper, cardboard, and other medium, to create an interface to your use case.
 
+
+
