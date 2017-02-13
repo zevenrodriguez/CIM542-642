@@ -36,9 +36,9 @@ To connect the piezo or speaker connect one side to your digital pin and the oth
 
 [Millis Fade Led Fade up](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/millisFade/millisFade.ino)
 
-[Millis Fade LED Fade and Flip Flop]()
+[Millis Fade Up and Down](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/millisFadeUpDown/millisFadeUpDown.ino)
 
-[Basic Mode Changer]()
+[Basic Mode Changer](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/ModeChanger/ModeChanger.ino)
 
-[Mode Changer with LED and Fade]()
+[Mode Changer with LED and Fade](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/ModeChangerFade/ModeChangerFade.ino)
 
