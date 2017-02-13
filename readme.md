@@ -11,7 +11,7 @@
 ###[Week 4: Feb 6th - Digital Input/Output](https://github.com/zevenrodriguez/CIM542-642/tree/master/week4)
 
 Week 5: Feb 13th 
-Analog Input/Output
+[Analog Input/Output](https://github.com/zevenrodriguez/CIM542-642/tree/master/week5)
 
 Week 6: Feb 20st 
 Advanced Programming

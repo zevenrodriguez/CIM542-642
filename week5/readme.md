@@ -1,28 +1,45 @@
+Start with wire 2 LEDs with one switch
+
 Analogread
 
-Basic AnalogRead
-
-Basic AnalogRead/AnalogWrite
 
 Potentiometer 
 
 ![Analog Pot](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/analogpot_bb.jpg)
 
-![2 wire Analog Sensor](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/analog2wire_bb.jpg)
 
-Mapping Values
+
+[Basic AnalogRead](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/analogRead/analogRead.ino)
+
+[Basic AnalogRead with if statements]()
 
 
 AnalogWrite- [Understanding PWM](https://www.arduino.cc/en/Tutorial/PWM)
 
+[Basic AnalogRead/AnalogWrite](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/analogReadInOut/analogReadInOut.ino)
+
+
+[Mapping Values](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/map/map.ino)
+
+
+####Connecting a piezo
+To connect the piezo or speaker connect one side to your digital pin and the other to ground. Use a 220ohm resistor to ground.
+
+[Tone Map]()
+
+
+![2 wire Analog Sensor](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/analog2wire_bb.jpg)
+
+
 ###Changing states
 
-Simple Counter
+[Simple Counter](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/buttonpressedCounter/buttonpressedCounter.ino)
 
-Millis Fade Led Fade up
+[Millis Fade Led Fade up]()
 
-Millis Fade LED Fade and Flip Flop
+[Millis Fade LED Fade and Flip Flop]()
 
-Basic Mode Changer
+[Basic Mode Changer]()
 
-Mode Changer with LED and Fade
+[Mode Changer with LED and Fade]()
+
