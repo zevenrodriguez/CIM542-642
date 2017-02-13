@@ -42,3 +42,7 @@ To connect the piezo or speaker connect one side to your digital pin and the oth
 
 [Mode Changer with LED and Fade](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/ModeChangerFade/ModeChangerFade.ino)
 
+##Homework
+
+Make and Document the Love-O-Meter and Color Mixing Lamp
+
