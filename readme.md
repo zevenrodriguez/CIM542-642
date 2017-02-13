@@ -8,7 +8,7 @@
 
 ###Week 3: [Jan 30st - Basic Electricity and Electronics, Getting Started with Arduino](https://github.com/zevenrodriguez/CIM542-642/tree/master/week2)
 
-###Week 4: Feb 6th - Digital Input/Output
+###[Week 4: Feb 6th - Digital Input/Output](https://github.com/zevenrodriguez/CIM542-642/tree/master/week4)
 
 Week 5: Feb 13th 
 Analog Input/Output
