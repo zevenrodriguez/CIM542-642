@@ -25,8 +25,7 @@ AnalogWrite- [Understanding PWM](https://www.arduino.cc/en/Tutorial/PWM)
 ####Connecting a piezo
 To connect the piezo or speaker connect one side to your digital pin and the other to ground. Use a 220ohm resistor to ground.
 
-[Tone Map]()
-
+[Tone Map](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/toneMap/toneMap.ino)
 
 ![2 wire Analog Sensor](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/analog2wire_bb.jpg)
 
@@ -35,7 +34,7 @@ To connect the piezo or speaker connect one side to your digital pin and the oth
 
 [Simple Counter](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/buttonpressedCounter/buttonpressedCounter.ino)
 
-[Millis Fade Led Fade up]()
+[Millis Fade Led Fade up](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/millisFade/millisFade.ino)
 
 [Millis Fade LED Fade and Flip Flop]()
 
