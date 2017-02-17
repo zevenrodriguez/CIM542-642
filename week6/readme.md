@@ -15,9 +15,9 @@
 
 Arrays
 
-Array Types
+[Array Types](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/arrayTypes/arrayTypes.ino)
 
-Reading Multiple Inputs and Output
+[Reading Multiple Inputs and Output](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/arrayInputOutput/arrayInputOutput.ino)
 
 LED Sequence using Millis
 
