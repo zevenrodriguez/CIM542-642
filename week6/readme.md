@@ -45,3 +45,11 @@ Create a project with in input and output. The project must be encased. Document
 
 [The Magic Crystal Mood Ball](http://itp.nyu.edu/~bms415/blog/2011/10/stupid-pet-trick/)
 
+
+##HOMEWORK
+
+* Create and document the chapter 8 digital hour glass assignment.
+* Create a midterm folder, create a readme.md and include 2 potential ideas for your midterm.
+ * Include pictures, videos, and drawings
+   * If based on something already made document how yours will be different
+
