@@ -29,7 +29,9 @@
 
 ##Midterm
 
-Create a project with in input and output. The project must be encased. Document the process by creating a readme, Include images, videos about your project. 
+Create a project with in input and output. The project must be encased. Document the process by creating a readme, Code plan. Include images, videos about your project. 
+
+[Code plan Example](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/codeplan.md)
 
 ###Stupid Pet Tricks
 
