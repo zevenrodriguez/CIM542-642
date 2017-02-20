@@ -27,6 +27,10 @@
 
 
 
+##Midterm
+
+Create a project with in input and output. The project must be encased. Document the process by creating a readme, Include images, videos about your project. 
+
 ###Stupid Pet Tricks
 
 [Robbie Tilton Robot](https://vimeo.com/30102085)
