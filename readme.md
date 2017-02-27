@@ -12,13 +12,11 @@
 
 ###[Week 5: Feb 13th - Analog Input/Output](https://github.com/zevenrodriguez/CIM542-642/tree/master/week5)
 
-[Week 6: Feb 20st - Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/tree/master/week6)
+###[Week 6: Feb 20st - Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/tree/master/week6)
 
-Week 7: Feb 27th 
-Servos, Transistors, and Motors
+###[Week 7: Feb 27th - Advanced Programming and Servos](https://github.com/zevenrodriguez/CIM542-642/tree/master/week7)
 
-Week 8: Mar 6th 
-Midterm Lab
+[Week 8: Mar 6th - Transistors, Motors, and Midterm Lab]() 
 
 Week 9: Mar 13th 
 Spring Break
