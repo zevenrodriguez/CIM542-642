@@ -16,7 +16,7 @@
 
 ###[Week 7: Feb 27th - Advanced Programming and Servos](https://github.com/zevenrodriguez/CIM542-642/tree/master/week7)
 
-[Week 8: Mar 6th - Transistors, Motors, and Midterm Lab]() 
+[Week 8: Mar 6th - Transistors, Motors, and Midterm Lab](https://github.com/zevenrodriguez/CIM542-642/tree/master/week8)
 
 Week 9: Mar 13th 
 Spring Break
