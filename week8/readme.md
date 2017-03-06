@@ -29,9 +29,13 @@ In our kits we have 2 IRF520 Mosfet transistors. They can handle more amperage a
 
 [IRF520 Datasheet](http://pdf.datasheetcatalog.com/datasheet/fairchild/IRF520.pdf)
 
-Base - Gate
-Collector - Drain
-Emitter - Source
+* Base - Gate
+
+* Collector - Drain
+
+* Emitter - Source
 
 ![Arduino Mosfet Hookup](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/mosfet_bb.jpg)
+
+
 
