@@ -7,7 +7,7 @@
 * Steppers
  * [Unstanding Stepper Motors](https://en.wikipedia.org/wiki/Stepper_motor#/media/File:StepperMotor.gif)
 
-###[Servo Code]()
+###[Servo Code](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/servoKnob/servoKnob.ino)
 
 
 ###Diode
