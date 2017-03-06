@@ -1,3 +1,10 @@
+###Diode
+
+Is a component used to control the flow of electricity. Generally used to avoid back voltage from components that can generate reverse voltage.
+
+![Diode]()
+
+
 ###Transistor
 
 Is a semiconductor that allows to connect 2 poles of electricity using an electrical signal. Transistors usually contain 3 connections: 
