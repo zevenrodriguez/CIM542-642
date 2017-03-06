@@ -1,3 +1,15 @@
+###Motors
+
+* DC Motors
+ * [Understanding DC Motors](https://nationalmaglab.org/education/magnet-academy/watch-play/interactive/dc-motor)
+* Servos
+ * Is a DC motor with a potentiometer or rotatry encoder
+* Steppers
+ * [Unstanding Stepper Motors](https://en.wikipedia.org/wiki/Stepper_motor#/media/File:StepperMotor.gif)
+
+###[Servo Code]()
+
+
 ###Diode
 
 Is a component used to control the flow of electricity. Generally used to avoid back voltage from components that can generate reverse voltage.

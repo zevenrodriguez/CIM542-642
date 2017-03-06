@@ -22,12 +22,3 @@
 [Sequencing Tones with Pitch File](https://github.com/zevenrodriguez/CIM542-642/tree/master/arduino/toneSequenceMillisWithPitch)
 
 
-###Motors
-
-* DC Motors
- * [Understanding DC Motors](https://nationalmaglab.org/education/magnet-academy/watch-play/interactive/dc-motor)
-* Servos
- * Is a DC motor with a potentiometer or rotatry encoder
-* Steppers
- * [Unstanding Stepper Motors](https://en.wikipedia.org/wiki/Stepper_motor#/media/File:StepperMotor.gif)
-
