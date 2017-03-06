@@ -2,7 +2,7 @@
 
 Is a component used to control the flow of electricity. Generally used to avoid back voltage from components that can generate reverse voltage.
 
-![Diode]()
+![Diode](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/diode.jpg)
 
 
 ###Transistor
@@ -33,5 +33,5 @@ Base - Gate
 Collector - Drain
 Emitter - Source
 
-
+![Arduino Mosfet Hookup](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/mosfet_bb.jpg)
 
