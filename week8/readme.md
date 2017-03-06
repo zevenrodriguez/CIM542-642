@@ -16,9 +16,9 @@ Is a semiconductor that allows to connect 2 poles of electricity using an electr
 There are 2 types of transistors:
 
 * NPN - Negative Positive Negative
- * Apply a positive charge on the ______ and it connects two negative poles
+ * Apply a positive charge on the Base and it connects two negative poles
 * PNP - Positive Negative Positive
- * Apply a negative charge on the ____ and it connects two positive poles. 
+ * Apply a negative charge on the Base and it connects two positive poles. 
 
 
 ####Transistor types
