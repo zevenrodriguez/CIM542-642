@@ -16,17 +16,13 @@
 
 ###[Week 7: Feb 27th - Advanced Programming and Servos](https://github.com/zevenrodriguez/CIM542-642/tree/master/week7)
 
-[Week 8: Mar 6th - Transistors, Motors, and Midterm Lab](https://github.com/zevenrodriguez/CIM542-642/tree/master/week8)
+###[Week 8: Mar 6th - Transistors, Motors, and Midterm Lab](https://github.com/zevenrodriguez/CIM542-642/tree/master/week8)
 
-Week 9: Mar 13th 
-Spring Break
+###[Week 9: Mar 13th - Spring Break](https://github.com/zevenrodriguez/CIM542-642/tree/master/week9)
 
-Week 10: Mar 20st 
-Midterm Due
-Intro to Serial
+###[Week 10: Mar 20st - Midterm Progress Report/Workday](https://github.com/zevenrodriguez/CIM542-642/tree/master/week9)
 
-Week 11: Mar 27th 
-Serial Continued
+[Week 11: Mar 27th - Serial]()
 
 Week 12: Apr 3th 
 I2C and SPI, Project Planning
