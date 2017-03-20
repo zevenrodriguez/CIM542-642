@@ -2,6 +2,8 @@
 
 [ASCII](https://www.arduino.cc/en/Reference/ASCIIchart)
 
+[p5Serial](https://github.com/vanevery/p5.serialport)
+
 ##Project Talk/Workday
 
 * Show Progress?
