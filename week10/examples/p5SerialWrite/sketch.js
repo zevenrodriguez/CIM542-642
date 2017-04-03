@@ -60,7 +60,7 @@ function draw() {
 // When you click on the screen, the server sends H or L out the serial port
 function mouseReleased() {
   serial.write(outMessage);
-  if (outMessage === 'H') {
+  if (outMessage == 'H') {
     outMessage = 'L';
   } else {
     outMessage = 'H';
