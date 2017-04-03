@@ -10,9 +10,9 @@ void loop() {
   if (Serial.available() > 0) {
     char letter = Serial.read();
 
-    Serial.print("Plain serial print character");
+    Serial.print("Plain serial print character: ");
     Serial.println(letter);
-    Serial.print("printing character to integer ");
+    Serial.print("printing character to integer: ");
     Serial.println(letter, DEC);
 
     //You can check for the character or the ASCII number
