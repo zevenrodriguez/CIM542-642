@@ -1,26 +1,26 @@
-#Welcome to Physical Computing
+# Welcome to Physical Computing
 
-##[Syllabus](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/CIM542-642-S17-Physical%20Computing.pdf)
+## [Syllabus](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/CIM542-642-S17-Physical%20Computing.pdf)
 
-###Week 1: Jan 16th - MLK Day
+### Week 1: Jan 16th - MLK Day
 
-###Week 2: [Jan 23th - Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/tree/master/week1)
+### Week 2: [Jan 23th - Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/tree/master/week1)
 
-###Week 3: [Jan 30st - Basic Electricity and Electronics, Getting Started with Arduino](https://github.com/zevenrodriguez/CIM542-642/tree/master/week2)
+### Week 3: [Jan 30st - Basic Electricity and Electronics, Getting Started with Arduino](https://github.com/zevenrodriguez/CIM542-642/tree/master/week2)
 
-###[Week 4: Feb 6th - Digital Input/Output](https://github.com/zevenrodriguez/CIM542-642/tree/master/week4)
+### [Week 4: Feb 6th - Digital Input/Output](https://github.com/zevenrodriguez/CIM542-642/tree/master/week4)
 
-###[Week 5: Feb 13th - Analog Input/Output](https://github.com/zevenrodriguez/CIM542-642/tree/master/week5)
+### [Week 5: Feb 13th - Analog Input/Output](https://github.com/zevenrodriguez/CIM542-642/tree/master/week5)
 
-###[Week 6: Feb 20st - Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/tree/master/week6)
+### [Week 6: Feb 20st - Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/tree/master/week6)
 
-###[Week 7: Feb 27th - Advanced Programming and Servos](https://github.com/zevenrodriguez/CIM542-642/tree/master/week7)
+### [Week 7: Feb 27th - Advanced Programming and Servos](https://github.com/zevenrodriguez/CIM542-642/tree/master/week7)
 
-###[Week 8: Mar 6th - Transistors, Motors, and Midterm Lab](https://github.com/zevenrodriguez/CIM542-642/tree/master/week8)
+### [Week 8: Mar 6th - Transistors, Motors, and Midterm Lab](https://github.com/zevenrodriguez/CIM542-642/tree/master/week8)
 
-###[Week 9: Mar 13th - Spring Break](https://github.com/zevenrodriguez/CIM542-642/tree/master/week9)
+### [Week 9: Mar 13th - Spring Break](https://github.com/zevenrodriguez/CIM542-642/tree/master/week9)
 
-###[Week 10: Mar 20st - Midterm Progress Report/Workday](https://github.com/zevenrodriguez/CIM542-642/tree/master/week9)
+### [Week 10: Mar 20st - Midterm Progress Report/Workday](https://github.com/zevenrodriguez/CIM542-642/tree/master/week9)
 
 [Week 11: Mar 27th - Serial]()
 
