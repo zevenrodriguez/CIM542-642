@@ -1,7 +1,7 @@
 ![2 wire Analog Sensor](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/analog2wire_bb.jpg)
 
 
-###Changing states
+### Changing states
 
 [Simple Counter](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/buttonpressedCounter/buttonpressedCounter.ino)
 
@@ -13,7 +13,7 @@
 
 [Mode Changer with LED and Fade](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/ModeChangerFade/ModeChangerFade.ino)
 
-###Arrays
+### Arrays
 
 [Array Types](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/arrayTypes/arrayTypes.ino)
 
@@ -27,7 +27,7 @@
 
 
 
-##Midterm
+## Midterm
 
 Create a project with in input and output. The project must be encased. Document the process by creating a readme, Code plan. Include images, videos about your project. 
 
@@ -46,7 +46,7 @@ Create a project with in input and output. The project must be encased. Document
 [The Magic Crystal Mood Ball](http://itp.nyu.edu/~bms415/blog/2011/10/stupid-pet-trick/)
 
 
-##HOMEWORK
+## HOMEWORK
 
 * Create and document the chapter 8 digital hour glass assignment.
 * Create a midterm folder, create a readme.md and include 2 potential ideas for your midterm.

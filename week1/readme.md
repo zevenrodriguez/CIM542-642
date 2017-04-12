@@ -72,7 +72,7 @@ If configured correctly, will upload your changes to github.
 
 
 
-#Homework - For Monday
+# Homework - For Monday
 
 * Create a Repository
  * Name it: Physical Computing

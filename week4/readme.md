@@ -1,4 +1,4 @@
-###Series and Parallel
+### Series and Parallel
 
 ![Parallel](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/parallel_bb.jpg)
 
@@ -6,7 +6,7 @@
 
 In a series circuit, the current through each of the components is the same, and the voltage across the circuit is the sum of the voltages across each component. In a parallel circuit, the voltage across each of the components is the same, and the total current is the sum of the currents through each component.
 
-###Variables
+### Variables
 
 Unlike javascript, variable are not dynamic. You have to specify the value type of the variable.
 
@@ -35,7 +35,7 @@ string/String comes in 2 flavors. They both hold a array of characters.
 string is in reference to a character array. String is an object. It contains functions that allow for basic String manipulation
 
 
-###Debugging
+### Debugging
 
 Serial - is a library that lets you communicate back and forth from the arduino.
 
@@ -49,18 +49,18 @@ To send messages back from the arduino to the computer you can use:
  In order to view print messages, click on the serial monitor.
 
 
-##Digital Output
+## Digital Output
 
-###Basic Arduino LED
+### Basic Arduino LED
 
 ![Basic Arduino LED](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/basicLEDArduino_bb.jpg)
 
 
-##Digital Input
+## Digital Input
 
 ![Switch Types](http://1.bp.blogspot.com/-KYLSTT7MnNo/VGQganMCoNI/AAAAAAAAIpY/wryTzxRhz9I/s1600/types-of-switches.png)
 
-###Basic Switch
+### Basic Switch
 
 * Push Button Switch
 * 10k Resistor (Red-Black-Brown)
@@ -69,7 +69,7 @@ To send messages back from the arduino to the computer you can use:
 ![Basic Switch](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/switch_bb.jpg)
 
 
-##Homework
+## Homework
 
 Use 2 switches to turn on 2 leds. Think of a use case, ie. game, application, and toy. Use paper, cardboard, and other medium, to create an interface to your use case.
 

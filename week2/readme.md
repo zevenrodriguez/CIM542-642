@@ -39,7 +39,7 @@
 
 Open File>Examples>Basics>Blink
 
-#Homework
+# Homework
 
 Create a sketch that turns on and off 3 LEDS. Create a stop light, blinker, or a cylon.
 

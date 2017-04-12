@@ -22,14 +22,14 @@ AnalogWrite- [Understanding PWM](https://www.arduino.cc/en/Tutorial/PWM)
 [Mapping Values](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/map/map.ino)
 
 
-####Connecting a piezo
+#### Connecting a piezo
 To connect the piezo or speaker connect one side to your digital pin and the other to ground. Use a 220ohm resistor to ground.
 
 [Tone Map](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/toneMap/toneMap.ino)
 
 
 
-##Homework
+## Homework
 
 Make and Document the Love-O-Meter and Color Mixing Lamp
 
