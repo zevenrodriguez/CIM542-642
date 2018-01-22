@@ -17,6 +17,8 @@
 
 ### Email: zevenrodriguez@miami.edu
 
+Please visit the class [wiki](https://github.com/zevenrodriguez/CIM542-642/wiki) for additional notes
+
 # Class Schedule
 
 #### Week 1: Jan 15th - MLK Day
