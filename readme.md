@@ -17,13 +17,17 @@
 
 ### Email: zevenrodriguez@miami.edu
 
-Please visit the class [wiki](https://github.com/zevenrodriguez/CIM542-642/wiki) for additional notes
+# Please visit the class [wiki](https://github.com/zevenrodriguez/CIM542-642/wiki) for additional notes
 
 # Class Schedule
 
 #### Week 1: Jan 15th - MLK Day
 
 #### Week 2: Jan 22th - Intro to Physical Computing, Basic Electricity and Electronics
+
+* [Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-To-Physical-Computing)
+
+* [Github](https://github.com/zevenrodriguez/CIM542-642/wiki/Github)
 
 #### Week 3: Jan 29st - Getting Started with Arduino, Digital Input/Output
 
