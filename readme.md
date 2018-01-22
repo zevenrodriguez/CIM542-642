@@ -29,6 +29,8 @@
 
 * [Github](https://github.com/zevenrodriguez/CIM542-642/wiki/Github)
 
+Read Make: Learn Electronics with Arduino pg 1-45
+
 #### Week 3: Jan 29st - Getting Started with Arduino, Digital Input/Output
 
 #### Week 4: Feb 5th - Analog Input/Output
