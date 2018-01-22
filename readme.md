@@ -56,3 +56,9 @@ Read Make: Learn Electronics with Arduino pg 1-45
 #### Week 14: Apr 16th - Final Lab
 
 #### Week 15: Apr 23th - Final Presentation
+
+## Arduino Kit
+
+* Purchase at bookstore
+* [Amazon](https://www.amazon.com/Arduino-Starter-Kit-English-Official/dp/B009UKZV0A/ref=sr_1_4?ie=UTF8&qid=1516635157&sr=8-4&keywords=arduino+starter+kit)
+* [School Outfitters](http://www.schooloutfitters.com/catalog/product_info/pfam_id/PFAM53854/products_id/PRO72470?sc_cid=Google_ARD-K000007&adtype=pla&kw=&CAWELAID=320012570000053078&CAGPSPN=pla&CAAGID=45125248000&CATCI=pla-313518166499)
