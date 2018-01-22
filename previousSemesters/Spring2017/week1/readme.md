@@ -6,7 +6,7 @@
  * Markdown
 * Electricity and Components
 
-##About the class
+## About the class
 
 [Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/physicalcomputing.pdf)
 
@@ -82,5 +82,3 @@ If configured correctly, will upload your changes to github.
   * Create a crazy machine, this machine can be useful or be self servient. The most important is to think about how a user is going to operate your machine. Think of knobs, switches, levers, etc
   * Example: [Deatomizer](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/deatomizer.jpg)
 * Purchase Arduino Kit @ UM Bookstore or [Adafruit](https://www.adafruit.com/products/1078)
-
-
