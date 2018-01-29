@@ -33,6 +33,10 @@ Read Make: Learn Electronics with Arduino pg 1-45
 
 #### Week 3: Jan 29st - Getting Started with Arduino, Digital Input/Output
 
+* [Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-To-Physical-Computing)
+* [Setting up your Environment](https://github.com/zevenrodriguez/CIM542-642/wiki/Setting-up-your-environment)
+* [Intro to Arduino](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-to-Arduino)
+
 #### Week 4: Feb 5th - Analog Input/Output
 
 #### Week 5: Feb 12th -  Advanced Programming
