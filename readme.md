@@ -59,7 +59,7 @@ Read Make: Learn Electronics with Arduino pg 1-45
   * Create a sensorwalk.md and place it in your hw folder
 * Make and Document the Love-O-Meter and Color Mixing Lamp
 
-#### Week 5: Feb 12th -  Advanced Programming
+#### Week 5: Feb 12th -  [Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/wiki/Advanced-Programming)
 
 #### Week 6: Feb 19st - Servos, Transistors, and Motors
 

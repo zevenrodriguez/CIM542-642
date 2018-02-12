@@ -12,8 +12,6 @@ long pMillis = 0;
 
 int interval = 100;
 
-boolean flipFlop = false;
-
 void setup() {
   // put your setup code here, to run once:
   pinMode(ledPin, OUTPUT);
@@ -42,7 +40,7 @@ void loop() {
     //Reset of Off Condition
     digitalWrite(ledPin, LOW);
     Serial.println("Mode 0");
-    counter = 0;
+
   }
   else if (mode == 1) {
     digitalWrite(ledPin, HIGH);
