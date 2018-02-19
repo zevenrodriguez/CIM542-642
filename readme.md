@@ -19,6 +19,8 @@
 
 # Please visit the class [wiki](https://github.com/zevenrodriguez/CIM542-642/wiki) for additional notes
 
+# [Student Survey](https://goo.gl/forms/1YEsS1fAeXefNjHO2)
+
 # Class Schedule
 
 #### Week 1: Jan 15th - MLK Day
