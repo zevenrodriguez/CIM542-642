@@ -63,21 +63,21 @@ Read Make: Learn Electronics with Arduino pg 1-45
 
 #### Week 5: Feb 12th -  [Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/wiki/Advanced-Programming)
 
-#### Week 6: Feb 19st - Servos, Transistors, and Motors
+#### Week 6: Feb 19st - [Servos, Transistors, and Motors](https://github.com/zevenrodriguez/CIM542-642/wiki/Transistors-And-Motors)
 
-#### Week 7: Feb 26th – Ideation Lab
+#### Week 7: Feb 26th – [Ideation Lab](https://github.com/zevenrodriguez/CIM542-642/wiki/Midterm)
 
 #### Week 8: Mar 5th – Midterm Lab
 
 #### Week 9: Mar 12th - Spring Break
 
-#### Week 10: Mar 19st – Midterm Due, Intro to Serial
+#### Week 10: Mar 19st – Midterm Due, Intro to Making
 
 #### Week 11: Mar 26th - Intro to 3D Design
 
-#### Week 12: Apr 2nd - Ideation Lab
+#### Week 12: Apr 2nd - 3D Design Continued, Ideation Lab
 
-#### Week 13: Apr 9th - 3D Design Continued
+#### Week 13: Apr 9th - Making Lab
 
 #### Week 14: Apr 16th - Final Lab
 
