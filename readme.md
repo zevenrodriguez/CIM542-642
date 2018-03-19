@@ -71,9 +71,9 @@ Read Make: Learn Electronics with Arduino pg 1-45
 
 #### Week 9: Mar 12th - Spring Break
 
-#### Week 10: Mar 19st – Midterm Due, Intro to Making
+#### Week 10: Mar 19st – Midterm Due, [Intro to Making](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-to-3D-Design)
 
-#### Week 11: Mar 26th - Intro to 3D Design
+#### Week 11: Mar 26th - Intro to 3D Design (No Class)
 
 #### Week 12: Apr 2nd - 3D Design Continued, Ideation Lab
 
