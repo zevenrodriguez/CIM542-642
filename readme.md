@@ -83,6 +83,8 @@ Read Make: Learn Electronics with Arduino pg 1-45
 
 #### Week 15: Apr 23th - Final Presentation
 
+# [Final - Due May 7th - 12pm](https://github.com/zevenrodriguez/CIM542-642/wiki/Final)
+
 ## Arduino Kit
 
 * Purchase at bookstore
