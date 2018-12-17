@@ -7,10 +7,9 @@
 ## Zevensuy Rodriguez
 
 * ### Office: Francis L. Wolfson Building 2022
-* Office Hours: https://calendly.com/zevenrodriguez
-* Email: zevenrodriguez@miami.edu
-
-# Please visit the class [wiki](https://github.com/zevenrodriguez/CIM542-642/wiki) for additional notes
+* ### Office Hours: https://calendly.com/zevenrodriguez
+* ### Email: zevenrodriguez@miami.edu
+* ### [Notes](/Notes)
 
 # [2019 Canes Film Festival Interactive End of Year Show TBA]()
 
