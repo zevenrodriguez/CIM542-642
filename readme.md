@@ -1,24 +1,20 @@
-# Physical Computing
-## CIM 542/642-5R - Spring Semester 2019
-### Class Time: Thursday, 2:00-4:30pm
+# Physical Computing: CIM 542/642-5R - Spring Semester 2019
 
-### Class Site: https://github.com/zevenrodriguez/CIM542-642
-
-## Zevensuy Rodriguez
-
+## Instructor: Zevensuy Rodriguez
+* ### Class Time: Thursday, 2:00-4:30pm
+* ### Class Site: https://github.com/zevenrodriguez/CIM542-642
 * ### Office: Francis L. Wolfson Building 2022
 * ### Office Hours: https://calendly.com/zevenrodriguez
 * ### Email: zevenrodriguez@miami.edu
 * ### [Notes](/Notes)
 
-# [2019 Canes Film Festival Interactive End of Year Show TBA]()
-
-
-## [Student Survey](https://goo.gl/forms/1YEsS1fAeXefNjHO2)
+<!-- # [2019 Canes Film Festival Interactive End of Year Show TBA]() -->
 
 # Class Schedule
 
 #### Week 1: Jan 15th - MLK Day
+
+* [Student Survey](https://goo.gl/forms/1YEsS1fAeXefNjHO2)
 
 #### Week 2: Jan 22th - Intro to Physical Computing, Basic Electricity and Electronics
 
