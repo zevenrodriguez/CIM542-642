@@ -1,4 +1,18 @@
-## Week 3. Homework
+# Turning in Assignments
+
+In your repository, create a hw.md file
+
+* Create for that weeks assignment create a section for each assignment
+* Include:
+  * Labs
+    * Links to video documentation and code
+  * Worksheets
+    * Upload and link worksheets
+  * Written Prompts
+    * Include in that weeks section
+* When you are finished with that weeks assignment upload the link to blackboard
+
+## Assignment 1
 
 * Create a Repository
  * Name it: physicalcomputing
