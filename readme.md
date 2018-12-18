@@ -13,7 +13,7 @@
 
 # Class Schedule
 
-#### Week 1
+#### Week 1: Class Introduction
 
 * Class intro
 * Intro to Arduino
@@ -23,7 +23,24 @@
 * Create an interface for your machine using the storyboard worksheet
 * [Student Survey](https://goo.gl/forms/1YEsS1fAeXefNjHO2)
 
-#### Week 2: Jan 22th - Intro to Physical Computing, Basic Electricity and Electronics
+#### Week 2: Intro to Physical Computing, Basic Electricity and Electronics
+
+* Intro to Arduino Kit
+* Setting up your environment
+* Intro to Arduino IDE
+* Digital input and output
+* Introduction to logic flow
+Using google drawing app, create a basic flow of an application/interaction
+
+##### HW 2:
+Tutorial - Spaceship Interface
+https://www.youtube.com/watch?v=xTXjsC78RSQ&index=2&list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd
+User Flow- How can you create an interface with one button interface and an led? Take a minute and observe your surroundings. Find piece of electronics that you can augment/add a feature with a button and an led. Think about modes and outputs to express an action and reaction. Create a flow using Google’s drawing app to explain how a user interacts with your interface.
+* Microwave
+* Coffeemaker
+* TV
+
+![Coffee Maker Grind Presets](files/CoffeeGrind.jpg)
 
 * [Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-To-Physical-Computing)
 
@@ -31,14 +48,14 @@
 
 Read Make: Learn Electronics with Arduino pg 1-45
 
-#### Week 3: Jan 29st - Getting Started with Arduino, Digital Input/Output
+#### Week 3: Getting Started with Arduino, Digital Input/Output
 
 * [Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-To-Physical-Computing)
 * [Setting up your Environment](https://github.com/zevenrodriguez/CIM542-642/wiki/Setting-up-your-environment)
 * [Intro to Arduino](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-to-Arduino)
 * [U.S. soldiers are revealing sensitive and dangerous information by jogging](https://www.washingtonpost.com/world/a-map-showing-the-users-of-fitness-devices-lets-the-world-see-where-us-soldiers-are-and-what-they-are-doing/2018/01/28/86915662-0441-11e8-aa61-f3391373867e_story.html?utm_term=.616378caeccb)
 
-#### Week 4: Feb 5th - Analog Input/Output
+#### Week 4: Analog Input/Output
 
 * [Series vs Parallel](https://github.com/zevenrodriguez/CIM542-642/wiki/Series-vs-Parallel)
  * LEWA: pg 180-181
@@ -59,23 +76,23 @@ Read Make: Learn Electronics with Arduino pg 1-45
   * Create a sensorwalk.md and place it in your hw folder
 * Make and Document the Love-O-Meter and Color Mixing Lamp
 
-#### Week 5: Feb 12th -  [Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/wiki/Advanced-Programming)
+#### Week 5: [Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/wiki/Advanced-Programming)
 
-#### Week 6: Feb 19st - [Servos, Transistors, and Motors](https://github.com/zevenrodriguez/CIM542-642/wiki/Transistors-And-Motors)
+#### Week 6: [Servos, Transistors, and Motors](https://github.com/zevenrodriguez/CIM542-642/wiki/Transistors-And-Motors)
 
-#### Week 7: Feb 26th – [Ideation Lab](https://github.com/zevenrodriguez/CIM542-642/wiki/Midterm)
+#### Week 7: [Ideation Lab](https://github.com/zevenrodriguez/CIM542-642/wiki/Midterm)
 
-#### Week 8: Mar 5th – Midterm Lab
+#### Week 8: Midterm Lab
 
-#### Week 9: Mar 12th - Spring Break
+#### Week 9: Spring Break
 
-#### Week 10: Mar 19st – Midterm Due, [Intro to Making](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-to-3D-Design)
+#### Week 10: Midterm Due, [Intro to Making](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-to-3D-Design)
 
-#### Week 11: Mar 26th - Intro to 3D Design (No Class)
+#### Week 11: Intro to 3D Design
 
-#### Week 12: Apr 2nd - 3D Design Continued, Ideation Lab
+#### Week 12: 3D Design Continued, Ideation Lab
 
-#### Week 13: Apr 9th - Making Lab
+#### Week 13: Making Lab
 
 #### Week 14: Apr 16th - Final Lab
 
