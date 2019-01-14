@@ -12,7 +12,7 @@ In your repository, create a hw.md file
     * Include in that weeks section
 * When you are finished with that weeks assignment upload the link to blackboard
 
-## Assignment 1
+<!-- ## Assignment 1
 
 * Create a Repository
  * Name it: physicalcomputing
@@ -73,4 +73,4 @@ In your repository, create a hw.md file
 * Create a final folder.
   * Create an ideas.md files
   * Come up with 3 ideas/topics for a potential final project
-    * For each idea or topic, find a project or projects that influenced and include it in your ideas file
+    * For each idea or topic, find a project or projects that influenced and include it in your ideas file -->
