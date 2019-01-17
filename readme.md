@@ -21,7 +21,12 @@
 
 #### HW 1
 * Create an interface for your machine using the [Storyboard Worksheet](files\StoryboardWorksheet.pdf)
+  * Use the parts worksheet to prototype your machine. You can choose to prototype a particular aspect of your machine.
 * [Student Survey](https://goo.gl/forms/1YEsS1fAeXefNjHO2)
+* Buy Arduino Kit
+  * [Arduino.cc](https://store.arduino.cc/usa/arduino-starter-kit)
+  * [Amazon](https://www.amazon.com/Arduino-Starter-Kit-English-Official/dp/B009UKZV0A/ref=sr_1_4?ie=UTF8&qid=1516635157&sr=8-4&keywords=arduino+starter+kit)
+
 
 #### Week 2: Intro to Physical Computing, Basic Electricity and Electronics
 

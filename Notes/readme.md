@@ -1,6 +1,7 @@
 # Course Notes
 * [Assignments](Assignments.md)
 * [Intro to Physical Computing](Intro-To-Physical-Computing.md)
+* [Parts](Parts.md)
 * [Github](Github.md)
 * [Intro to Arduino](Intro-to-Arduino.md)
 * [Series vs Parallel](Series-vs-Parallel.md)
@@ -11,6 +12,5 @@
 * [Advanced Programming](Advanced-Programming.md)
 * [Servos, Transistors, and Motors](Transistors-And-Motors.md)
 * [Midterm](Midterm.md)
-* []()
 * [Intro to Making](Intro-to-Making.md)
 * [Final](Final.md)
