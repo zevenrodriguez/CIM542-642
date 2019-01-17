@@ -13,14 +13,14 @@
 
 # Class Schedule
 
-#### Week 1: Class Introduction
+### Week 1: Class Introduction
 
 * Class intro
 * Intro to Arduino
 * Ideation Workshop: Crazy Machine - Create a fantasy machine that a user can interact with.
-  * In class Assignment quick brainstorm using revised ideation workshop sheet
-* HW 1:
-* Create an interface for your machine using the storyboard worksheet
+
+#### HW 1
+* Create an interface for your machine using the [Storyboard Worksheet](files\StoryboardWorksheet.pdf)
 * [Student Survey](https://goo.gl/forms/1YEsS1fAeXefNjHO2)
 
 #### Week 2: Intro to Physical Computing, Basic Electricity and Electronics
