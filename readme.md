@@ -38,9 +38,12 @@
 Using google drawing app, create a basic flow of an application/interaction
 
 ##### HW 2:
-Tutorial - Spaceship Interface
+###### Lab - Spaceship Interface
 https://www.youtube.com/watch?v=xTXjsC78RSQ&index=2&list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd
-User Flow- How can you create an interface with one button interface and an led? Take a minute and observe your surroundings. Find piece of electronics that you can augment/add a feature with a button and an led. Think about modes and outputs to express an action and reaction. Create a flow using Google’s drawing app to explain how a user interacts with your interface.
+
+###### User Flow
+
+How can you create an interface with one button interface and an led? Take a minute and observe your surroundings. Find piece of electronics that you can augment/add a feature with a button and an led. Think about modes and outputs to express an action and reaction. Create a flow using Google’s drawing app to explain how a user interacts with your interface.
 * Microwave
 * Coffeemaker
 * TV
@@ -58,7 +61,7 @@ Read Make: Learn Electronics with Arduino pg 1-45
 * [Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-To-Physical-Computing)
 * [Setting up your Environment](https://github.com/zevenrodriguez/CIM542-642/wiki/Setting-up-your-environment)
 * [Intro to Arduino](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-to-Arduino)
-* [U.S. soldiers are revealing sensitive and dangerous information by jogging](https://www.washingtonpost.com/world/a-map-showing-the-users-of-fitness-devices-lets-the-world-see-where-us-soldiers-are-and-what-they-are-doing/2018/01/28/86915662-0441-11e8-aa61-f3391373867e_story.html?utm_term=.616378caeccb)
+
 
 #### Week 4: Analog Input/Output
 
@@ -76,9 +79,9 @@ Read Make: Learn Electronics with Arduino pg 1-45
 
 ##### Assignment
 * Sensor walk
- * Take 2 minutes and list all the electronics in your surroundings
-  * Then list all the sensors in those electronics
-  * Create a sensorwalk.md and place it in your hw folder
+  * Take 2 minutes and list all the electronics in your surroundings
+    * Then list all the sensors in those electronics
+    * Create a sensorwalk.md and place it in your hw folder
 * Make and Document the Love-O-Meter and Color Mixing Lamp
 
 #### Week 5: [Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/wiki/Advanced-Programming)
