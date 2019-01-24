@@ -30,31 +30,32 @@
 
 #### Week 2: Intro to Physical Computing, Basic Electricity and Electronics
 
+* [Intro to Electricity and Components Slides](https://docs.google.com/presentation/d/1OZsjOAGmvX9IuKPb8RYilajWWwStS34MV0bU8o1sHWA/edit?usp=sharing)
 * Intro to Arduino Kit
-* Setting up your environment
 * Intro to Arduino IDE
 * Digital input and output
 * Introduction to logic flow
-Using google drawing app, create a basic flow of an application/interaction
+  * Using google drawing app or sketch/draw, create a basic flow of an application/interaction
+
+  * [Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-To-Physical-Computing)
+
+  * [Github](https://github.com/zevenrodriguez/CIM542-642/wiki/Github)
+
+  Read Make: Learn Electronics with Arduino pg 1-45
 
 ##### HW 2:
-###### Lab - Spaceship Interface
-https://www.youtube.com/watch?v=xTXjsC78RSQ&index=2&list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd
 
-###### User Flow
+* Lab - Spaceship Interface [Video Link](https://www.youtube.com/watch?v=xTXjsC78RSQ&index=2&list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd)
 
-How can you create an interface with one button interface and an led? Take a minute and observe your surroundings. Find piece of electronics that you can augment/add a feature with a button and an led. Think about modes and outputs to express an action and reaction. Create a flow using Google’s drawing app to explain how a user interacts with your interface.
-* Microwave
-* Coffeemaker
-* TV
+* User Flow
+  * How can you create an interface with one button interface and an led? Take a minute and observe your surroundings. Find piece of electronics that you can augment/add a feature with a button and an led. Think about modes and outputs to express an action and reaction. Create a flow using Google’s drawing app to explain how a user interacts with your interface.
+    * Microwave
+    * Coffeemaker
+    * TV
 
 ![Coffee Maker Grind Presets](files/CoffeeGrind.jpg)
 
-* [Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-To-Physical-Computing)
 
-* [Github](https://github.com/zevenrodriguez/CIM542-642/wiki/Github)
-
-Read Make: Learn Electronics with Arduino pg 1-45
 
 #### Week 3: Getting Started with Arduino, Digital Input/Output
 

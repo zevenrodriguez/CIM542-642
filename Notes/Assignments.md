@@ -1,34 +1,37 @@
 # Turning in Assignments
 
-In your repository, create a hw.md file
+In your repository, create a readme.md file
 
 * Create for that weeks assignment create a section for each assignment
 * Include:
   * Labs
-    * Links to video documentation and code
+    * Upload your code to github and link to your readme.md document
+    * Link to video documentation
   * Worksheets
     * Upload and link worksheets
   * Written Prompts
     * Include in that weeks section
 * When you are finished with that weeks assignment upload the link to blackboard
 
-<!-- ## Assignment 1
+## Assignment 1
 
-* Create a Repository
- * Name it: physicalcomputing
-* Create a hw folder
-* Create a fantasymachine.md or if you have a named machine.md file
- * Create a crazy machine, this machine can be useful or be self servient. The most important is to think about how a user is going to operate your machine. Think of knobs, switches, levers, etc
+* Create a crazy machine, this machine can be useful or be self servient. The most important is to think about how a user is going to operate your machine. Think of knobs, switches, levers, etc
   * Example: [Deatomizer](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/deatomizer.jpg)
-* Purchase Arduino Kit @ UM Bookstore or [Adafruit](https://www.adafruit.com/products/1078)
+* Upload your documentation for your fantasy machine and link it to your readme.md
 
-## Week 3. Homework
+## Assignment 2
 
 * Do the Chapter 2: Space Ship Interface, In the Arduino Projects book. [Video Link](https://www.youtube.com/watch?v=xTXjsC78RSQ&index=2&list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd)
- * Create a week3 folder include your code as well as a readme.md linking an image and video of your project, as well as a brief description on what you did in the assignment.
-  * Upload a video to youtube or vimeo and linking it to your week2 readme.md
+  * Upload a video to youtube or vimeo and linking it to your readme.md
+* User Flow
+  * How can you create an interface with one button interface and an led? Take a minute and observe your surroundings. Find piece of electronics that you can augment/add a feature with a button and an led. Think about modes and outputs to express an action and reaction. Create a flow using Google’s drawing app to explain how a user interacts with your interface.
+    * Microwave
+    * Coffeemaker
+    * TV
 
+  ![Coffee Maker Grind Presets](files/CoffeeGrind.jpg)
 
+<!--
 ## Week 4. Homework
 
 * Sensor walk
