@@ -32,10 +32,13 @@
 
 * [Intro to Electricity and Components Slides](https://docs.google.com/presentation/d/1OZsjOAGmvX9IuKPb8RYilajWWwStS34MV0bU8o1sHWA/edit?usp=sharing)
 * Intro to Arduino Kit
-* Intro to Arduino IDE
+* [Intro to Arduino IDE](/Notes/Intro-to-Arduino.md)
 * Digital input and output
 * Introduction to logic flow
   * Using google drawing app or sketch/draw, create a basic flow of an application/interaction
+
+  [Robo Fish](https://imgur.com/kMPdz0J)
+
 
   * [Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-To-Physical-Computing)
 

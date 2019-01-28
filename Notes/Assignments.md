@@ -23,6 +23,8 @@ In your repository, create a readme.md file
 
 * Do the Chapter 2: Space Ship Interface, In the Arduino Projects book. [Video Link](https://www.youtube.com/watch?v=xTXjsC78RSQ&index=2&list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd)
   * Upload a video to youtube or vimeo and linking it to your readme.md
+
+## Assignment 3  
 * User Flow
   * How can you create an interface with one button interface and an led? Take a minute and observe your surroundings. Find piece of electronics that you can augment/add a feature with a button and an led. Think about modes and outputs to express an action and reaction. Create a flow using Google’s drawing app to explain how a user interacts with your interface.
     * Microwave

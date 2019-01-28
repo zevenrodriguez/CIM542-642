@@ -1,8 +1,9 @@
 # Course Notes
 * [Intro to Physical Computing](Intro-To-Physical-Computing.md)
 * [Parts](Parts.md)
-* [Github](Github.md)
 * [Intro to Arduino](Intro-to-Arduino.md)
+* [Setting up your environment](Setting-up-your-environment.md)
+* [Github](Github.md)
 * [Series vs Parallel](Series-vs-Parallel.md)
 * [Variables](Variables.md)
 * [Debugging](Debugging.md)
