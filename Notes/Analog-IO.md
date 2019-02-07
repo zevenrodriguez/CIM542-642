@@ -6,13 +6,13 @@ Start with wire 2 LEDs with one switch
 
 A potentiometer is a variable resistor. Potentiometers can be linear like a slider or rotary like a volume knob.
 
-![Analog Pot](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/analogpot_bb.jpg)
+![Analog Pot](../BreadboardExamples/analogpot_bb.jpg)
 
-[Basic AnalogRead](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/analogRead/analogRead.ino)
+[Basic AnalogRead](../BreadboardExamples/analogRead.ino)
 
 AnalogWrite- [Understanding PWM](https://www.arduino.cc/en/Tutorial/PWM)
 
-[Basic AnalogRead/AnalogWrite](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/analogReadInOut/analogReadInOut.ino)
+[Basic AnalogRead/AnalogWrite](../BreadboardExamples/analogReadInOut.ino)
 
 ## 2 Wire Variable Resistors
 
@@ -23,7 +23,7 @@ Some variable resistors have 2 wires, generally without polarity. One power goes
 * Photocell
 * Thermistor
 
-![2 Wire Variable Resistor](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/analog2wire_bb.jpg)
+![2 Wire Variable Resistor](../BreadboardExamples/analog2wire_bb.jpg)
 
 [Mapping Values](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/map/map.ino)
 

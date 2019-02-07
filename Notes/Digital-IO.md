@@ -2,7 +2,7 @@
 
 ### Basic Arduino LED
 
-![Basic Arduino LED](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/basicLEDArduino_bb.jpg)
+![Basic Arduino LED](../BreadboardExamples/basicLEDArduino_bb.jpg)
 
 
 ## Digital Input
@@ -15,4 +15,4 @@
 * 10k Resistor (Red-Black-Brown)
 * Wires
 
-![Basic Switch](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/switch_bb.jpg)
+![Basic Switch](../BreadboardExamples/switch_bb.jpg)

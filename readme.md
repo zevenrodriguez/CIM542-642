@@ -33,55 +33,41 @@
 * [Intro to Electricity and Components Slides](https://docs.google.com/presentation/d/1OZsjOAGmvX9IuKPb8RYilajWWwStS34MV0bU8o1sHWA/edit?usp=sharing)
 * Intro to Arduino Kit
 * [Intro to Arduino IDE](/Notes/Intro-to-Arduino.md)
-* Digital input and output
-* Introduction to logic flow
-  * Using google drawing app or sketch/draw, create a basic flow of an application/interaction
+* [Digital input and output](/Notes/Digital-IO.md)
 
-  [Robo Fish](https://imgur.com/kMPdz0J)
-
-
-  * [Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-To-Physical-Computing)
-
-  * [Github](https://github.com/zevenrodriguez/CIM542-642/wiki/Github)
-
-  Read Make: Learn Electronics with Arduino pg 1-45
 
 ##### HW 2:
 
 * Lab - Spaceship Interface [Video Link](https://www.youtube.com/watch?v=xTXjsC78RSQ&index=2&list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd)
 
-* User Flow
-  * How can you create an interface with one button interface and an led? Take a minute and observe your surroundings. Find piece of electronics that you can augment/add a feature with a button and an led. Think about modes and outputs to express an action and reaction. Create a flow using Google’s drawing app to explain how a user interacts with your interface.
-    * Microwave
-    * Coffeemaker
-    * TV
-
-![Coffee Maker Grind Presets](files/CoffeeGrind.jpg)
-
-
 
 #### Week 3: Getting Started with Arduino, Digital Input/Output
 
-* [Intro to Physical Computing](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-To-Physical-Computing)
-* [Setting up your Environment](https://github.com/zevenrodriguez/CIM542-642/wiki/Setting-up-your-environment)
-* [Intro to Arduino](https://github.com/zevenrodriguez/CIM542-642/wiki/Intro-to-Arduino)
+* [Digital input and output](/Notes/Digital-IO.md)
+* [Series vs Parallel](/Notes/Series-vs-Parallel.md)
+* [Variables](/Notes/Variables)
+* [Debugging](/Notes/Debugging)
+* Introduction to logic flow
+
+##### HW 3:
+
+  * User Flow
+    * How can you create an interface with one button interface and an led? Take a minute and observe your surroundings. Find piece of electronics that you can augment/add a feature with a button and an led. Think about modes and outputs to express an action and reaction. Create a flow using Google’s drawing app to explain how a user interacts with your interface.
+      * Microwave
+      * Coffeemaker
+      * TV
+
+  ![Coffee Maker Grind Presets](files/CoffeeGrind.jpg)
 
 
 #### Week 4: Analog Input/Output
 
-* [Series vs Parallel](https://github.com/zevenrodriguez/CIM542-642/wiki/Series-vs-Parallel)
- * LEWA: pg 180-181
-* [Variables](https://github.com/zevenrodriguez/CIM542-642/wiki/Variables)
- * LEWA: pg 194-220
-* [Debugging](https://github.com/zevenrodriguez/CIM542-642/wiki/Debugging)
- * LEWA: pg 269-276
-* [Digital IO](https://github.com/zevenrodriguez/CIM542-642/wiki/Digital-IO)
- * LEWA: pg 194-220
+
 * [Analog IO](https://github.com/zevenrodriguez/CIM542-642/wiki/Analog-IO)
- * LEWA: pg 241-268
 
 
-##### Assignment
+##### HW 4:
+
 * Sensor walk
   * Take 2 minutes and list all the electronics in your surroundings
     * Then list all the sensors in those electronics

@@ -47,4 +47,4 @@ In our kits we have 2 IRF520 Mosfet transistors. They can handle more amperage a
 
 * Emitter - Source
 
-![Arduino Mosfet Hookup](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/mosfet_bb.jpg)
+![Arduino Mosfet Hookup](../BreadboardExamples/mosfet_bb.jpg)

@@ -27,4 +27,4 @@ To send messages back from the arduino to the computer you can use:
 
  In order to view print messages, click on the serial monitor.
 
- ![Serial Monitor](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/serialmonitor.PNG)
+ ![Serial Monitor](../files/serialmonitor.PNG)

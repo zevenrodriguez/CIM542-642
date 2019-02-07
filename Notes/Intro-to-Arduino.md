@@ -39,13 +39,13 @@ Arduino as well as the software comes with its own text editor that also allows 
 ![Arduino Diagram](https://blog.arduino.cc/wp-content/uploads/2012/05/ArduinoUno_R3_Pinouts_600.png)
 
 ### Basic Breadboard Setup for with an Arduino
-![Basic Breadboard](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/basic%20setup_bb.jpg)
+![Basic Breadboard](../BreadboardExamples/basic%20setup_bb.jpg)
 
 ### Connecting a LED to power
-![Simple LED Setup](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/basicLED_bb.jpg)
+![Simple LED Setup](../BreadboardExamples/basicLED_bb.jpg)
 
 ### Basic Arduino LED
 
-![Basic Arduino LED](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/basicLEDArduino_bb.jpg)
+![Basic Arduino LED](../BreadboardExamples/basicLEDArduino_bb.jpg)
 
 #### Open File>Examples>Basics>Blink
