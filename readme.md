@@ -68,13 +68,16 @@
 
 ##### HW 4:
 
+* Make and Document the Love-O-Meter and Color Mixing Lamp
+
+#### Week 5: [Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/wiki/Advanced-Programming)
+
+##### HW 5:
+
 * Sensor walk
   * Take 2 minutes and list all the electronics in your surroundings
     * Then list all the sensors in those electronics
     * Create a sensorwalk.md and place it in your hw folder
-* Make and Document the Love-O-Meter and Color Mixing Lamp
-
-#### Week 5: [Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/wiki/Advanced-Programming)
 
 #### Week 6: [Servos, Transistors, and Motors](https://github.com/zevenrodriguez/CIM542-642/wiki/Transistors-And-Motors)
 
