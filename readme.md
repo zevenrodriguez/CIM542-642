@@ -72,6 +72,8 @@
 
 #### Week 5: [Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/wiki/Advanced-Programming)
 
+* [Theremin](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/toneMap/theremin.ino)
+
 ##### HW 5:
 
 * Sensor walk
