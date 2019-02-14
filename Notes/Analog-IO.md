@@ -35,3 +35,5 @@ Some variable resistors have 2 wires, generally without polarity. One power goes
 To connect the piezo or speaker connect one side to your digital pin and the other to ground. Use a 220ohm resistor to ground.
 
 [Tone Map](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/toneMap/toneMap.ino)
+
+[Theremin](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/theremin/theremin.ino)
