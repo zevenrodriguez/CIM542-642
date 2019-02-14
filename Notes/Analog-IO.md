@@ -2,6 +2,10 @@
 
 Start with wire 2 LEDs with one switch
 
+![Basic Arduino LED](../BreadboardExamples/basicLEDArduino_bb.jpg)
+![Basic Switch](../BreadboardExamples/switch_bb.jpg)
+
+
 ## Potentiometer
 
 A potentiometer is a variable resistor. Potentiometers can be linear like a slider or rotary like a volume knob.

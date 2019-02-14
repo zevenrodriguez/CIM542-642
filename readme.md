@@ -75,9 +75,14 @@
 ##### HW 5:
 
 * Sensor walk
-  * Take 2 minutes and list all the electronics in your surroundings
+  * Go to a public place
+  * Take a couple of minutes and list all the electronics in your surroundings
     * Then list all the sensors in those electronics
-    * Create a sensorwalk.md and place it in your hw folder
+  * Take note of points of interaction, places individuals congregate
+    * Ordering counters
+    * Sign in
+    * Water fountains
+  * Create a sensorwalk.md and place it in your hw folder
 
 #### Week 6: [Servos, Transistors, and Motors](https://github.com/zevenrodriguez/CIM542-642/wiki/Transistors-And-Motors)
 

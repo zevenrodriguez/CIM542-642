@@ -21,5 +21,6 @@
 
 
 # Resources
+* [Past Projects](Past-Projects.md)
 * [Inspiration](Inspiration.md)
 * [Arduino Website](https://www.arduino.cc/)
