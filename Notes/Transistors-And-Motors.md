@@ -1,11 +1,11 @@
 ### Motors
 
 * DC Motors
- * [Understanding DC Motors](https://nationalmaglab.org/education/magnet-academy/watch-play/interactive/dc-motor)
+  * [Understanding DC Motors](https://nationalmaglab.org/education/magnet-academy/watch-play/interactive/dc-motor)
 * Servos
- * Is a DC motor with a potentiometer or rotatry encoder
+  * Is a DC motor with a potentiometer or rotatry encoder
 * Steppers
- * [Unstanding Stepper Motors](https://en.wikipedia.org/wiki/Stepper_motor#/media/File:StepperMotor.gif)
+  * [Unstanding Stepper Motors](https://en.wikipedia.org/wiki/Stepper_motor#/media/File:StepperMotor.gif)
 
 [Servo Code](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/servoKnob/servoKnob.ino)
 
@@ -14,7 +14,9 @@
 
 Is a component used to control the flow of electricity. Generally used to avoid back voltage from components that can generate reverse voltage.
 
-![Diode](https://github.com/zevenrodriguez/CIM542-642/blob/master/files/diode.jpg)
+![Diode](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dioden2.jpg/220px-Dioden2.jpg)
+
+Ulfbastel - modified from Dioden.jpg (centimeter instead of meter), created by Honina [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 
 
 ### Transistor
@@ -28,9 +30,9 @@ Is a semiconductor that allows to connect 2 poles of electricity using an electr
 There are 2 types of transistors:
 
 * NPN - Negative Positive Negative
- * Apply a positive charge on the Base and it connects two negative poles
+  * Apply a positive charge on the Base and it connects two negative poles
 * PNP - Positive Negative Positive
- * Apply a negative charge on the Base and it connects two positive poles.
+  * Apply a negative charge on the Base and it connects two positive poles.
 
 
 #### Transistor types

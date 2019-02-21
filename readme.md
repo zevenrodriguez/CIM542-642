@@ -75,19 +75,27 @@
 * [Theremin](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/theremin/theremin.ino)
 * [Temperature](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/temp/temp.ino)
 
+#### Week 6: [Servos, Transistors, and Motors](https://github.com/zevenrodriguez/CIM542-642/wiki/Transistors-And-Motors)
+
+* millis
+  * [fade in/fade out](../arduino/millisFadeUpDown/millisFadeUpDown.ino)
+* [Servo](../arduino/servoKnob/servoKnob.ino)
+
 ##### HW 5:
 
 * Sensor walk
   * Go to a public place
   * Take a couple of minutes and list all the electronics in your surroundings
     * Then list all the sensors in those electronics
+      * LCD Panel
+      * Touch Sensor
+      * Button
+      * Motion Sensor
   * Take note of points of interaction, places individuals congregate
     * Ordering counters
-    * Sign in
+    * Sign in kiosk
     * Water fountains
   * Create a sensorwalk.md and place it in your hw folder
-
-#### Week 6: [Servos, Transistors, and Motors](https://github.com/zevenrodriguez/CIM542-642/wiki/Transistors-And-Motors)
 
 #### Week 7: [Ideation Lab](https://github.com/zevenrodriguez/CIM542-642/wiki/Midterm)
 
