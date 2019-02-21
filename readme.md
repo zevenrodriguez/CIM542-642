@@ -63,19 +63,19 @@
 #### Week 4: Analog Input/Output
 
 
-* [Analog IO](https://github.com/zevenrodriguez/CIM542-642/wiki/Analog-IO)
+* [Analog IO](Notes/Analog-IO)
 
 
 ##### HW 4:
 
 * Make and Document the Love-O-Meter and Color Mixing Lamp
 
-#### Week 5: [Advanced Programming](https://github.com/zevenrodriguez/CIM542-642/wiki/Advanced-Programming)
+#### Week 5: [Advanced Programming](Notes/Advanced-Programming)
 
 * [Theremin](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/theremin/theremin.ino)
 * [Temperature](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/temp/temp.ino)
 
-#### Week 6: [Servos, Transistors, and Motors](https://github.com/zevenrodriguez/CIM542-642/wiki/Transistors-And-Motors)
+#### Week 6: [Servos, Transistors, and Motors](Notes/Transistors-And-Motors)
 
 * millis
   * [fade in/fade out](../arduino/millisFadeUpDown/millisFadeUpDown.ino)
