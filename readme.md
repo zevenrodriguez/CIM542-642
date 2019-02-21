@@ -45,8 +45,8 @@
 
 * [Digital input and output](/Notes/Digital-IO.md)
 * [Series vs Parallel](/Notes/Series-vs-Parallel.md)
-* [Variables](/Notes/Variables)
-* [Debugging](/Notes/Debugging)
+* [Variables](/Notes/Variables.md)
+* [Debugging](/Notes/Debugging.md)
 * Introduction to logic flow
 
 ##### HW 3:
@@ -63,19 +63,19 @@
 #### Week 4: Analog Input/Output
 
 
-* [Analog IO](Notes/Analog-IO)
+* [Analog IO](Notes/Analog-IO.md)
 
 
 ##### HW 4:
 
 * Make and Document the Love-O-Meter and Color Mixing Lamp
 
-#### Week 5: [Advanced Programming](Notes/Advanced-Programming)
+#### Week 5: [Advanced Programming](Notes/Advanced-Programming.md)
 
 * [Theremin](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/theremin/theremin.ino)
 * [Temperature](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/temp/temp.ino)
 
-#### Week 6: [Servos, Transistors, and Motors](Notes/Transistors-And-Motors)
+#### Week 6: [Servos, Transistors, and Motors](Notes/Transistors-And-Motors.md)
 
 * millis
   * [fade in/fade out](../arduino/millisFadeUpDown/millisFadeUpDown.ino)
