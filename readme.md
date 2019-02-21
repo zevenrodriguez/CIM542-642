@@ -82,22 +82,46 @@
 * [Servo](../arduino/servoKnob/servoKnob.ino)
 
 ##### HW 5:
+* Knock Lock
+* Sensor Walk - Go to a public area, A park, Food Court, Mall, Etc
+  * Find 6 points of interaction between people and electronics, mechanical devices, signage, or any other areas of high traffic
+  * What are the inputs?
+    * Find switches, levers, buttons, visual aids
+    * Are the inputs active(electronic or mechanical) or passive
+      * If Active
+        * What is the sensor?
+        * What triggers the sensor?
+      * If Passive
+        * What is the User doing?
+        * Are they walking up?
+   * What are the outputs?
+     * Lights, sound, motors, signage
+     * Is the output active or passive
+       * If Active,
+         * What does it do when triggered?
+       * If Passive
+         * What is it?
+           * Map
+           * Sign
+* Research Parts
+  * Based on 3 inputs/outputs from the Sensor Walk, research potential sensors used in the input or output
+  * Search in [amazon](https://www.amazon.com/), [adafruit](https://www.adafruit.com/), and [sparkfun](https://www.sparkfun.com/), [robotshop](https://www.robotshop.com/) for potential matches
 
-* Sensor walk
-  * Go to a public place
-  * Take a couple of minutes and list all the electronics in your surroundings
-    * Then list all the sensors in those electronics
-      * LCD Panel
-      * Touch Sensor
-      * Button
-      * Motion Sensor
-  * Take note of points of interaction, places individuals congregate
-    * Ordering counters
-    * Sign in kiosk
-    * Water fountains
-  * Create a sensorwalk.md and place it in your hw folder
 
 #### Week 7: [Ideation Lab](https://github.com/zevenrodriguez/CIM542-642/wiki/Midterm)
+
+* 5 Slide intro
+  * What is your Project?
+    * Describe your project in 1-2 sentences
+  * 3 Projects that influenced yours
+    * Explain how
+    * Include an Image and Link
+  * What parts did you use?
+    * Parts List Worksheet
+  * Explain your interaction
+    * Ie - Flow Diagram
+  * What modifications would make to you project
+    * Q and A Worksheet
 
 #### Week 8: Midterm Lab
 
