@@ -110,6 +110,8 @@
 
 #### Week 7: [Ideation Lab](https://github.com/zevenrodriguez/CIM542-642/wiki/Midterm)
 
+##### HW 6:
+
 * 5 Slide intro
   * What is your Project?
     * Describe your project in 1-2 sentences
@@ -124,6 +126,60 @@
     * Q and A Worksheet
 
 #### Week 8: Midterm Lab
+
+* Midterm Presentation
+* Midterm Lab
+
+##### Requirements for Midterm and Final - 100 points
+
+* Create a folder for your midterm.
+  * Include a readme.md in your folder.
+    * Answer the questions below - 20 Points
+  * Include Images and Video - 20 Points
+  * Include your code - 20 Points
+  * Your project needs to be encased - 20 Points
+
+###### About the project
+* What is the title of your project?
+* Briefly explain why did you want to make this project?
+  * Who are the stakeholders?
+  * Find 3 inspiring projects
+
+###### Code
+
+* How does your program work? (Explain your code)
+  * Reflection
+    * What worked/did not work?
+    * If you had more time what would you change in your project?
+
+###### Components
+
+* What parts did you use?
+* Which are your inputs/outputs
+
+
+###### Interaction
+
+* Explain how a user interacts with your input/output
+  * Create a layout for your interface
+  * Storyboard the interaction
+    * Draw a step by step diagram of the interaction
+    * Explain how the project is used?
+      * How does the user interact with the input
+      * Why did you decide to use that component?
+      * Explain how the input translates to the output
+* Talk about what form factor/size your project would ideally be.
+
+
+###### Images and Videos
+* Include images and captions for
+  * 2 - Progress images
+    * For example, breadboard, case,
+  * 1 - Finished input
+  * 1 - Finished output
+  * 1 - Finished Breadboard
+* A video of finished project
+
 
 #### Week 9: Spring Break
 
