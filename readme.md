@@ -187,6 +187,37 @@
 
 #### Week 11: Intro to 3D Design
 
+For the video tutorials and onshape works best on google chrome.
+
+* [Intro to Onshape](https://www.onshape.com/videos/software-overview-and-user-interface-tour)
+* [Complete Fundamentals of Sketching](https://learn.onshape.com/learn/course/fundamentals-sketching)
+  * Starting a Sketch
+  * Lines and Rectangles
+  * Construction Geometry
+* [Complete Fundamentals of Part Design](https://learn.onshape.com/learn/course/fundamentals-part-design-using-part-studios)
+  * Starting a part
+  * Extrude
+  * Appearance
+* [Using Calipers](https://littlemachineshop.com/images/gallery/Instructions/UsingCalipers.pdf)
+
+#### HW Due April 11th
+
+
+* Midterm Paper Prototype
+  * Create an enclosure or part using the Vinyl Cutter
+* [Complete the DimensionWorksheet](files/DimensionWorksheet.pdf)
+* 2 - 3D Printed objects (Parts must be designed and printed before class)
+  * Create 2 small 3D Printed objects
+    * Create a custom cap for a switch or
+    * Create a custom knob for a potentiometer or
+    * Create custom pieces for your final
+* #### Turning in your assignment
+  * In your main readme,
+    * Upload and include your images of all your new made pieces
+      * Add caption/text for context
+    * Upload and Link your Dimension Worksheet
+
+
 #### Week 12: 3D Design Continued, Ideation Lab
 
 #### Week 13: Making Lab

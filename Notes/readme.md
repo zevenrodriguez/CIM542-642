@@ -11,7 +11,7 @@
 * [Analog IO](Analog-IO.md)
 * [Advanced Programming](Advanced-Programming.md)
 * [Servos, Transistors, and Motors](Transistors-And-Motors.md)
-* [Intro to Making](Intro-to-Making.md)
+* [Intro to Making](Intro-to-3D-Design.md)
 
 # Deliverables
 * [Assignments](Assignments.md)
