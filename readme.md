@@ -226,7 +226,9 @@ For the video tutorials and onshape works best on google chrome.
 
 #### Week 15: Apr 23th - Final Presentation
 
-<!-- # [Final - Due May 7th - 12pm](https://github.com/zevenrodriguez/CIM542-642/wiki/Final) -->
+# [Interactive Media End of Year Show - May 2nd 5 PM](https://interactive.miami.edu/canesfilmfestival/)
+# Final Due May 7th 2-4:30 PM
+
 
 ## Arduino Kit
 
