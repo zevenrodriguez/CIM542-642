@@ -11,7 +11,74 @@
 
 <!-- # [2019 Canes Film Festival Interactive End of Year Show TBA]() -->
 
+## Tools
+
+### Arduino Kit
+* [Alternate Kit](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4?ref_=ast_sto_dp)
+* [Official Kit](https://www.amazon.com/Arduino-Starter-Kit-English-Official/dp/B009UKZV0A/ref=sr_1_4?ie=UTF8&qid=1516635157&sr=8-4&keywords=arduino+starter+kit)
+* [School Outfitters](http://www.schooloutfitters.com/catalog/product_info/pfam_id/PFAM53854/products_id/PRO72470?sc_cid=Google_ARD-K000007&adtype=pla&kw=&CAWELAID=320012570000053078&CAGPSPN=pla&CAAGID=45125248000&CATCI=pla-313518166499)
+
+### Important Resources
+* [Official Arduino Website](http://www.arduino.cc)
+* [Learn Electronics with Arduino: An Illustrated Beginner's Guide to Physical Computing by Jody Culkin, Eric Hagan](https://www.amazon.com/Learn-Electronics-Arduino-Illustrated-Technology/dp/1680453742/ref=sr_1_18?keywords=arduino+book&qid=1578868522&sr=8-18)
+* [ArduinoToGo Website](http://arduinotogo.com/)
+
+## Canes Film Festival Interactive End of Year Show
+
+At the end of the Spring Semseter, the Interactive Media Department invites students to participate in the Canes Film Festival End of Year Show. Students enrolled in this class must participate in the show.
+
 # Class Schedule
+
+### Week 1: Jan 14th-16th - Intro to Physical Computing, Intro to Basic Fabrication
+
+
+
+### Week 2: Jan 21th-23rd - Getting Started with Arduino, Basic Electricity and Electronics
+
+### Week 3: Jan 28th-30th - Representing Emotion Work Week
+
+### Week 4: Feb 4th-6th – Lights and Animation
+
+### Week 5: Feb 11th-13th -  Project Presentation
+
+### Week 6: Feb 18th-20th – Introduction to Analog Input/Output
+
+### Week 7: Feb 25th-27th – Analog Input/Output Cont’ & Intro to 3D Design/Printing
+
+### Week 8: Mar 3rd-5th – 3D Design Workshop
+
+### Week 9: Mar 17th-19th – Toy Workshop
+
+### Week 10: Mar 24th-26th – Toy Presentation
+
+### Week 11: Mar 31st-Apr 2nd – Final Ideation Workshop
+
+### Week 12: Apr 7th-9th - Fabrication Workshop
+
+### Week 13: Apr 14th-16th – Programming Workshop
+
+### Week 14: Apr 21st-23rd – Project Workshop
+
+### End of Year Show TBA
+
+## IMPORTANT DATES:
+
+Jan 13 - CLASSES BEGIN
+
+Jan 20 - HOLIDAY (MARTIN LUTHER KING, JR. DAY)
+
+March 7-15 - SPRING RECESS
+
+March 25 - Last Day to Drop a Course
+
+April 24 - CLASSES END  (11:00 PM)
+
+April 25 - April 28 - Reading Days
+
+April 29- May 6 - FINAL EXAMS
+
+
+<!--
 
 ### Week 1: Class Introduction
 
@@ -230,8 +297,4 @@ For the video tutorials and onshape works best on google chrome.
 # Final Due May 7th 2-4:30 PM
 
 
-## Arduino Kit
-
-* Purchase at bookstore
-* [Amazon](https://www.amazon.com/Arduino-Starter-Kit-English-Official/dp/B009UKZV0A/ref=sr_1_4?ie=UTF8&qid=1516635157&sr=8-4&keywords=arduino+starter+kit)
-* [School Outfitters](http://www.schooloutfitters.com/catalog/product_info/pfam_id/PFAM53854/products_id/PRO72470?sc_cid=Google_ARD-K000007&adtype=pla&kw=&CAWELAID=320012570000053078&CAGPSPN=pla&CAAGID=45125248000&CATCI=pla-313518166499)
+-->
