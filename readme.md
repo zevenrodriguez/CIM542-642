@@ -1,12 +1,12 @@
-# Physical Computing: CIM 542/642-5R - Spring Semester 2019
+# Physical Computing: CIM 542/642-R - Spring Semester 2020
 
 ### Instructor: Zevensuy Rodriguez
-#### Class Time: Thursday, 2:00-4:30pm
+#### Class Time: TuThu, 2:00-3:15pm
 #### Class Site: https://github.com/zevenrodriguez/CIM542-642
-#### Office: Francis L. Wolfson Building 2022
+#### Office: Francis L. Wolfson Building 2014
 #### Office Hours: https://calendly.com/zevenrodriguez
 #### Email: zevenrodriguez@miami.edu
-#### [Syllabus]()
+#### [Syllabus](https://github.com/zevenrodriguez/CIM542-642/blob/master/CIM542-642-R-Physical%20Computing.pdf)
 #### [Notes](/Notes)
 
 <!-- # [2019 Canes Film Festival Interactive End of Year Show TBA]() -->
@@ -31,7 +31,8 @@ At the end of the Spring Semseter, the Interactive Media Department invites stud
 
 ### Week 1: Jan 14th-16th - Intro to Physical Computing, Intro to Basic Fabrication
 
-
+* [Intro to Physical Computing Slides](https://docs.google.com/presentation/d/10FzMQ9X0vp3fHtjppiglLnoRbPExrV5GD2Lb1tUf4Sk/edit?usp=sharing)
+* [Intro to Making](https://docs.google.com/presentation/d/1MiBCTzbZGxv1FeldpkSnju3gEhyvfKCOVmJnf68VY-A/edit?usp=sharing)
 
 ### Week 2: Jan 21th-23rd - Getting Started with Arduino, Basic Electricity and Electronics
 
