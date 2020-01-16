@@ -1,4 +1,4 @@
-# Turning in Assignments
+<!-- # Turning in Assignments
 
 In your repository, create a readme.md file
 
@@ -78,4 +78,4 @@ In your repository, create a readme.md file
 * Create a final folder.
   * Create an ideas.md files
   * Come up with 3 ideas/topics for a potential final project
-    * For each idea or topic, find a project or projects that influenced and include it in your ideas file -->
+    * For each idea or topic, find a project or projects that influenced and include it in your ideas file --> -->
