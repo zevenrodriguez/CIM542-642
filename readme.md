@@ -35,6 +35,7 @@ At the end of the Spring Semseter, the Interactive Media Department invites stud
 * [Intro to Physical Computing Slides](https://docs.google.com/presentation/d/10FzMQ9X0vp3fHtjppiglLnoRbPExrV5GD2Lb1tUf4Sk/edit?usp=sharing)
 * [Intro to Making](https://docs.google.com/presentation/d/1MiBCTzbZGxv1FeldpkSnju3gEhyvfKCOVmJnf68VY-A/edit?usp=sharing)
 * [Vinyl Cutter Notes](https://uminteractive.github.io/labs/vinylcutter.html)
+* [Project 1: Representing Emotion](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md)
 
 ### Week 2: Jan 21th-23rd - Getting Started with Arduino, Basic Electricity and Electronics
 

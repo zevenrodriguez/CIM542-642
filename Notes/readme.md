@@ -14,7 +14,7 @@
 * [Intro to Making](Intro-to-3D-Design.md)
 
 # Deliverables
-* [Assignments](Assignments.md)
+* [Assignments](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md)
 * [Midterm](Midterm.md)
 * [Final](Final.md)
 
