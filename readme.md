@@ -39,6 +39,7 @@ At the end of the Spring Semseter, the Interactive Media Department invites stud
 
 ### Week 2: Jan 21th-23rd - Getting Started with Arduino, Basic Electricity and Electronics
 
+<<<<<<< HEAD
 #### Notes
 
 * [Intro to Electricity and Components Slides](https://docs.google.com/presentation/d/1OZsjOAGmvX9IuKPb8RYilajWWwStS34MV0bU8o1sHWA/edit?usp=sharing)
@@ -70,6 +71,8 @@ Complete the [SOS Signal example in Chapter 3](http://arduinotogo.com/2016/09/09
 
 
 
+=======
+>>>>>>> parent of 4a2c22f... gif test
 ### Week 3: Jan 28th-30th - Representing Emotion Work Week
 
 ### Week 4: Feb 4th-6th – Lights and Animation
