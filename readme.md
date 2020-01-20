@@ -56,6 +56,7 @@ At the end of the Spring Semseter, the Interactive Media Department invites stud
 * [Plugging in your Arduino](http://arduinotogo.com/2016/08/20/chapter-1-plug-in-your-arduino/)
 * [Using a Breadboard](http://arduinotogo.com/2016/08/22/chapter-2-using-a-breadboard/)
 * [Programming the Arduino](http://arduinotogo.com/category/chapter-3/)
+* [Github Notes](/Notes/Github.md)
 
 #### Homework
 
