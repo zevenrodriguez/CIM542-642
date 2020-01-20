@@ -1,3 +1,8 @@
+## Resistor
+![Resistor](../files/parts/resistor.png)
+
+In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.
+
 ## LED
 ![LED](../files/parts/led.png)
 
