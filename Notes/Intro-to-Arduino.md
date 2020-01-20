@@ -33,13 +33,13 @@ Arduino as well as the software comes with its own text editor that also allows 
 
 
 ### Understanding a breadboard
-![Understanding Breadboard](https://github.com/zevenrodriguez/CIM542-642/blob/master/Breadboard%20examples/breadboardbd.jpg)
+![Understanding Breadboard](../BreadboardExamples/breadboardbd.jpg)
 
 ### Arduino Diagram
 ![Arduino Diagram](https://blog.arduino.cc/wp-content/uploads/2012/05/ArduinoUno_R3_Pinouts_600.png)
 
 ### Basic Breadboard Setup for with an Arduino
-![Basic Breadboard](../BreadboardExamples/basic%20setup_bb.jpg)
+![Basic Breadboard](../BreadboardExamples/basicsetup_bb.jpg)
 
 ### Connecting a LED to power
 ![Simple LED Setup](../BreadboardExamples/basicLED_bb.jpg)
