@@ -65,7 +65,7 @@ Complete the [SOS Signal example in Chapter 3](http://arduinotogo.com/2016/09/09
   * Document/record your new light pattern
   * Upload code and Include Link
 
-  ![test](https://media.giphy.com/media/wjNfbaPeMXqPm/giphy.gif)
+  ![test]()
 
 
 
