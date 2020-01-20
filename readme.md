@@ -39,6 +39,37 @@ At the end of the Spring Semseter, the Interactive Media Department invites stud
 
 ### Week 2: Jan 21th-23rd - Getting Started with Arduino, Basic Electricity and Electronics
 
+#### Notes
+
+* [Intro to Electricity and Components Slides](https://docs.google.com/presentation/d/1OZsjOAGmvX9IuKPb8RYilajWWwStS34MV0bU8o1sHWA/edit?usp=sharing)
+* [Intro to Arduino Kit](/Notes/Parts.md)
+* [Intro to Arduino IDE](/Notes/Intro-to-Arduino.md)
+* [Digital input and output](/Notes/Digital-IO.md)
+
+#### Reading
+
+* [Parts of an Arduino](http://arduinotogo.com/2016/08/20/chapter-1-parts-of-an-arduino/)
+* [Plugging in your Arduino](http://arduinotogo.com/2016/08/20/chapter-1-plug-in-your-arduino/)
+* [Using a Breadboard](http://arduinotogo.com/2016/08/22/chapter-2-using-a-breadboard/)
+* [Programming the Arduino](http://arduinotogo.com/category/chapter-3/)
+
+#### Homework
+
+Complete the [SOS Signal example in Chapter 3](http://arduinotogo.com/2016/09/09/chapter-3-sos-signal/)
+
+* Document/record a video/gif of finished project
+  * Create a hw page and embed video/gif
+* Create a documentation page for Representing Emotion Project
+  * Include a title with your Emotion
+  * Design a new light pattern for your Emotion
+  * Document/record your new light pattern
+  * Upload code and Include Link
+
+  ![test](https://media.giphy.com/media/wjNfbaPeMXqPm/giphy.gif)
+
+
+
+
 ### Week 3: Jan 28th-30th - Representing Emotion Work Week
 
 ### Week 4: Feb 4th-6th – Lights and Animation
