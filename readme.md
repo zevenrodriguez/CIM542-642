@@ -28,6 +28,10 @@
 
 At the end of the Spring Semseter, the Interactive Media Department invites students to participate in the Canes Film Festival End of Year Show. Students enrolled in this class must participate in the show.
 
+## Assignments
+
+ You will need to document your work for this class. Documentation must include videos/gifs, Images, and basic write ups about your projects. You will have 3 projects in this class. Each project should have its own documentation page. For smaller homework assignments, simply create a homework page and include all documentation there. All please upload all assignment links to Microsoft Teams before the date due.
+
 # Class Schedule
 
 ### Week 1: Jan 14th-16th - Intro to Physical Computing, Intro to Basic Fabrication
@@ -39,7 +43,6 @@ At the end of the Spring Semseter, the Interactive Media Department invites stud
 
 ### Week 2: Jan 21th-23rd - Getting Started with Arduino, Basic Electricity and Electronics
 
-<<<<<<< HEAD
 #### Notes
 
 * [Intro to Electricity and Components Slides](https://docs.google.com/presentation/d/1OZsjOAGmvX9IuKPb8RYilajWWwStS34MV0bU8o1sHWA/edit?usp=sharing)
@@ -66,13 +69,7 @@ Complete the [SOS Signal example in Chapter 3](http://arduinotogo.com/2016/09/09
   * Document/record your new light pattern
   * Upload code and Include Link
 
-  ![test]()
 
-
-
-
-=======
->>>>>>> parent of 4a2c22f... gif test
 ### Week 3: Jan 28th-30th - Representing Emotion Work Week
 
 ### Week 4: Feb 4th-6th – Lights and Animation
