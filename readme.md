@@ -4,7 +4,7 @@
 #### Class Time: TuThu, 2:00-3:15pm
 #### Class Site: https://github.com/zevenrodriguez/CIM542-642
 #### Office: Francis L. Wolfson Building 2014
-#### Office Hours: https://calendly.com/zevenrodriguez
+#### [Office Hours](https://outlook.office365.com/owa/calendar/OfficeHours@miamiedu.onmicrosoft.com/bookings/)
 #### Email: zevenrodriguez@miami.edu
 #### [Syllabus](https://github.com/zevenrodriguez/CIM542-642/blob/master/CIM542-642-R-Physical%20Computing.pdf)
 #### [Notes](/Notes)
