@@ -15,4 +15,5 @@
 * 10k Resistor (Red-Black-Brown)
 * Wires
 
+![Basic Switch](../BreadboardExamples/switchpushbutton_bb.jpg)
 ![Basic Switch](../BreadboardExamples/switch_bb.jpg)
