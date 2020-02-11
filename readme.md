@@ -77,7 +77,22 @@ Complete the [SOS Signal example in Chapter 3](http://arduinotogo.com/2016/09/09
 
 ### Week 5: Feb 11th-13th -  Project Presentation
 
+* Millis
+* [Fade](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/millisFadeUpDown/millisFadeUpDown.ino) 
+* Basic Switch
+* [Mode Changer](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/ModeChanger/ModeChanger.ino)
+* Light Pattern
+* Presentation Feb 13th
+  * Sculpture
+  * Light Pattern
+
 ### Week 6: Feb 18th-20th – Introduction to Analog Input/Output
+
+
+* Representing Emotion Project Due Feb 20th
+  * Bring finished product
+  * All documentation due end of day
+
 
 ### Week 7: Feb 25th-27th – Analog Input/Output Cont’ & Intro to 3D Design/Printing
 
