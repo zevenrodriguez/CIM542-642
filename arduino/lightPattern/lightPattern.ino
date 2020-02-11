@@ -3,7 +3,7 @@ int ledPin1 = 10;
 int ledPin2 = 11;
 
 int timeSequence[6] = {2000, 2000, 500, 500, 500, 500};
-int timeSequenceLength = 6;
+int timeSequenceLength = 6; //adjust based on number of items in array
 
 int curTime = 0;
 long prevMillis = 0;
@@ -29,7 +29,7 @@ void loop() {
     } else {
       turnOn = true;
     }
-    
+
     curTime++;
 
     if (curTime == timeSequenceLength) {
