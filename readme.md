@@ -89,11 +89,22 @@ Complete the [SOS Signal example in Chapter 3](http://arduinotogo.com/2016/09/09
 
 ### Week 6: Feb 18th-20th – Introduction to Analog Input/Output
 
+* [Light Pattern](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/lightPattern/lightPattern.ino)
+* [Millis Fade](https://github.com/zevenrodriguez/CIM542-642/blob/master/arduino/millisFadeUpDown/millisFadeUpDown.ino)
 * Representing Emotion Project Due Feb 20th
   * Bring finished product
   * All documentation due end of day
 
+#### Reading
+* [Add a button](http://arduinotogo.com/2016/10/08/chapter-5-add-a-button/)
+* [Looking at Variables](http://arduinotogo.com/2016/10/08/chapter-5-looking-at-the-sketch-variables/)
+* [Digital Input](http://arduinotogo.com/2016/10/08/chapter-5-digital-input/)
+* [Conditionals](http://arduinotogo.com/2016/10/08/chapter-5-looking-at-the-sketch-conditional-statements/)
+
 ### Week 7: Feb 25th-27th – Analog Input/Output Cont’ & Intro to 3D Design/Printing
+
+#### Reading
+* [Analog Input and Output](http://arduinotogo.com/category/chapter-6/)
 
 ### Week 8: Mar 3rd-5th – 3D Design Workshop
 
