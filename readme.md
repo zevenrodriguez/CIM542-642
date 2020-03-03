@@ -103,10 +103,21 @@ Complete the [SOS Signal example in Chapter 3](http://arduinotogo.com/2016/09/09
 
 ### Week 7: Feb 25th-27th – Analog Input/Output Cont’ & Intro to 3D Design/Printing
 
+* [Intro to Motors](/Notes/Transistors-And-Motors.md)
+* Servo Sweep Example - Examples => Servo => Sweep
+* Servo Knob Example - Examples => Servo => Knob
+
 #### Reading
 * [Analog Input and Output](http://arduinotogo.com/category/chapter-6/)
 
 ### Week 8: Mar 3rd-5th – 3D Design Workshop
+
+* [Intro to 3D Design](/Notes/Intro-to-3D-Design.md)
+* [Intro to FDM](https://www.3dhubs.com/knowledge-base/introduction-fdm-3d-printing/)
+* [Types of Design Software](https://www.3dhubs.com/knowledge-base/3d-modeling-cad-software)
+* [Fasteners](https://docs.google.com/presentation/d/15S8b3iE_vphgxRu_Pq7GMbx549w8rgUJcG1xYuAcuhg/edit?usp=sharing)
+* [Using Calipers](https://littlemachineshop.com/Instructions/UsingCalipers.pdf)
+
 
 ### Week 9: Mar 17th-19th – Toy Workshop
 

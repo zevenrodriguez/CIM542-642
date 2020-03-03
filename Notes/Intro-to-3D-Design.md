@@ -8,6 +8,9 @@
 
 ## [3D hubs All Things Making Knowledgebase](https://www.3dhubs.com/knowledge-base/)
 
+## [Intro to FDM](https://www.3dhubs.com/knowledge-base/introduction-fdm-3d-printing/)
+
+
 # Tutorials
 
 [Onshape](https://learn.onshape.com/learn/course/fundamentals-navigating-onshape/creating-an-onshape-document/creating-a-document)
