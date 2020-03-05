@@ -117,6 +117,8 @@ Complete the [SOS Signal example in Chapter 3](http://arduinotogo.com/2016/09/09
 * [Types of Design Software](https://www.3dhubs.com/knowledge-base/3d-modeling-cad-software)
 * [Fasteners](https://docs.google.com/presentation/d/15S8b3iE_vphgxRu_Pq7GMbx549w8rgUJcG1xYuAcuhg/edit?usp=sharing)
 * [Using Calipers](https://littlemachineshop.com/Instructions/UsingCalipers.pdf)
+* [Dimension Worksheet](/files/DimensionWorksheet.pdf)
+* [Sketching Fundamentals](https://learn.onshape.com/courses/fundamentals-sketching)
 
 
 ### Week 9: Mar 17th-19th – Toy Workshop
