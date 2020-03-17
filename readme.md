@@ -120,7 +120,23 @@ Complete the [SOS Signal example in Chapter 3](http://arduinotogo.com/2016/09/09
 * [Dimension Worksheet](/files/DimensionWorksheet.pdf)
 * [Sketching Fundamentals](https://learn.onshape.com/courses/fundamentals-sketching)
 
+The class will be a flip classroom. I will post video lectures or assignments before class and during class we will have office hours. I will be available only through teams. I would like to keep emailing to a minimum to make sure that all questions get answered. If you have general questions, use the general chat. If you have specific questions, feel free to send me a message. Teams has a great feature to do screen sharing, FYI. If you are not available for class due to time zone issues, please reach out to make arrangements.
 
+* Online lecturers will be available before class
+* Check in periodically for updates on assignments and lectures
+* Office hours during class time
+* Install Microsoft Teams Desktop
+
+### Week of March 23rd – Re-intro to 3D Design and Tinkercad
+### Week of March 30th – Toy Design Workshop
+### Week of April 6th - Toy Programming Workshop
+### Week of April 13th – Toy Projects Due, Helping Robots Project Introduction
+### Week of April 20th - Helping Robots Design
+### Week of April 27th - Helping Robots Programming
+### Week of May 4th - Helping Robots Due - Spring semester ends on May 6
+
+
+<!--
 ### Week 9: Mar 17th-19th – Toy Workshop
 
 ### Week 10: Mar 24th-26th – Toy Presentation
@@ -149,7 +165,7 @@ April 24 - CLASSES END  (11:00 PM)
 
 April 25 - April 28 - Reading Days
 
-April 29- May 6 - FINAL EXAMS
+April 29- May 6 - FINAL EXAMS -->
 
 
 <!--
