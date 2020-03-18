@@ -6,7 +6,8 @@
 #### Office: Francis L. Wolfson Building 2014
 #### [Office Hours](https://outlook.office365.com/owa/calendar/OfficeHours@miamiedu.onmicrosoft.com/bookings/)
 #### Email: zevenrodriguez@miami.edu
-#### [Syllabus](https://github.com/zevenrodriguez/CIM542-642/blob/master/CIM542-642-R-Physical%20Computing.pdf)
+<!-- #### [Syllabus](https://github.com/zevenrodriguez/CIM542-642/blob/master/CIM542-642-R-Physical%20Computing.pdf) -->
+#### [Syllabus Updated](https://github.com/zevenrodriguez/CIM542-642/blob/master/CIM542-642-R-PhysicalComputing-Updated.pdf)
 #### [Notes](/Notes)
 
 <!-- # [2019 Canes Film Festival Interactive End of Year Show TBA]() -->
@@ -129,13 +130,13 @@ The class will be a flip classroom. I will post video lectures or assignments be
 * Office hours during class time
 * Install Microsoft Teams Desktop
 
-### Week of March 23rd – Re-intro to 3D Design and Tinkercad
-### Week of March 30th – Playful Interfaces Design Workshop
-### Week of April 6th - Playful Interfaces Programming Workshop
-### Week of April 13th – Playful Interfaces Projects Due, Helping Robots Project Introduction
-### Week of April 20th - Helping Robots Design
-### Week of April 27th - Helping Robots Programming
-### Week of May 4th - Helping Robots Due - Spring semester ends on May 6
+### Week of March 23rd – Re-intro to 3D Design and [Tinkercad](https://www.tinkercad.com/)
+### Week of March 30th – [Playful Interfaces Design Workshop](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md#project-2-playful-interfaces)
+### Week of April 6th - [Playful Interfaces Programming Workshop](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md#project-2-playful-interfaces)
+### Week of April 13th – [Playful Interfaces Projects Due](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md#project-2-playful-interfaces), [Helping Robots Project Introduction](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md#project-3-helping-robots)
+### Week of April 20th - [Helping Robots Design](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md#project-3-helping-robots)
+### Week of April 27th - [Helping Robots Programming](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md#project-3-helping-robots)
+### Week of May 4th - [Helping Robots Due](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md#project-3-helping-robots) - Spring semester ends on May 6
 
 
 <!--
