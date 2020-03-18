@@ -24,9 +24,9 @@
 * [ArduinoToGo Website](http://arduinotogo.com/)
 * [UM Interactive Labs Site](https://uminteractive.github.io/labs/)
 
-## Canes Film Festival Interactive End of Year Show
+<!-- ## Canes Film Festival Interactive End of Year Show
 
-At the end of the Spring Semseter, the Interactive Media Department invites students to participate in the Canes Film Festival End of Year Show. Students enrolled in this class must participate in the show.
+At the end of the Spring Semseter, the Interactive Media Department invites students to participate in the Canes Film Festival End of Year Show. Students enrolled in this class must participate in the show. -->
 
 ## Assignments
 
@@ -120,6 +120,8 @@ Complete the [SOS Signal example in Chapter 3](http://arduinotogo.com/2016/09/09
 * [Dimension Worksheet](/files/DimensionWorksheet.pdf)
 * [Sketching Fundamentals](https://learn.onshape.com/courses/fundamentals-sketching)
 
+## Virtual Learning
+
 The class will be a flip classroom. I will post video lectures or assignments before class and during class we will have office hours. I will be available only through teams. I would like to keep emailing to a minimum to make sure that all questions get answered. If you have general questions, use the general chat. If you have specific questions, feel free to send me a message. Teams has a great feature to do screen sharing, FYI. If you are not available for class due to time zone issues, please reach out to make arrangements.
 
 * Online lecturers will be available before class
@@ -128,9 +130,9 @@ The class will be a flip classroom. I will post video lectures or assignments be
 * Install Microsoft Teams Desktop
 
 ### Week of March 23rd – Re-intro to 3D Design and Tinkercad
-### Week of March 30th – Toy Design Workshop
-### Week of April 6th - Toy Programming Workshop
-### Week of April 13th – Toy Projects Due, Helping Robots Project Introduction
+### Week of March 30th – Playful Interfaces Design Workshop
+### Week of April 6th - Playful Interfaces Programming Workshop
+### Week of April 13th – Playful Interfaces Projects Due, Helping Robots Project Introduction
 ### Week of April 20th - Helping Robots Design
 ### Week of April 27th - Helping Robots Programming
 ### Week of May 4th - Helping Robots Due - Spring semester ends on May 6
