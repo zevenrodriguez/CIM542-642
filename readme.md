@@ -131,6 +131,7 @@ The class will be a flip classroom. I will post video lectures or assignments be
 * Install Microsoft Teams Desktop
 
 ### Week of March 23rd – Re-intro to 3D Design and [Tinkercad](https://www.tinkercad.com/)
+* [Intro to Tinkercad Video](https://miamiedu-my.sharepoint.com/:v:/g/personal/z_rodriguez2_umiami_edu/ETD8FneCD8JJlh3x-NXnZtEBMKy9SkwCUCta32ZuSvIbCA?e=UI5wLt)
 ### Week of March 30th – [Playful Interfaces Design Workshop](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md#project-2-playful-interfaces)
 ### Week of April 6th - [Playful Interfaces Programming Workshop](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md#project-2-playful-interfaces)
 ### Week of April 13th – [Playful Interfaces Projects Due](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md#project-2-playful-interfaces), [Helping Robots Project Introduction](https://github.com/zevenrodriguez/CIM542-642/blob/master/assignments.md#project-3-helping-robots)
