@@ -44,7 +44,6 @@ Your project should have a 2 of the following:
 
 ### Making
 * Create a part on Onshape that you can use for your project.
-* Create a physical prototype
 
 ### Deliverables: Documentation must include
 * Documentation of the Interaction
