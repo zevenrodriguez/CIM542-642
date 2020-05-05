@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+</head>
+
+<body>
+
+  <script type="text/javascript">
+    var change = 0;
+    var buy = -1;
+    fetch('https://financialmodelingprep.com/api/v3/quote/%5EDJI')
+      .then(response => response.json())
+      .then(data => {
+        console.log(data[0]['change'])
+        change = data[0]['change'];
+        if(change <= 0){
+          buy = 0;
+        }else{
+          buy = 1;
+        }
+
+        console.log(buy)
+        });
+  </script>
+</body>
+
+</html>

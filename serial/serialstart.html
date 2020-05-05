@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+</head>
+
+<body>
+
+  <h3 class="apicheck">Let's learn about Web Serial API.</h3>
+  <h3>Current Message <span id="currentMessage">0</span></h3>
+  <h3>Pressed counter: <span id="buttonPressed">0</span></h3>
+
+  <button id="connect-button" type="button" disabled>🔌 Connect</button>
+
+  <!-- <input id="led-dimmer" type="range" min="0" max="255" value="0" class="demo bubble" disabled /> -->
+
+  <button id="getValue" type="button" value="25">Get Value</button>
+
+  <!-- Orignal Scripts from https://github.com/svendahlstrand/web-serial-api  -->
+  <script>
+    const connectButton = document.getElementById('connect-button');
+    let port;
+
+    if ('serial' in navigator) {
+      connectButton.addEventListener('click', function() {
+        if (port) {
+          port.close();
+          port = undefined;
+          connectButton.innerText = '🔌 Connect';
+          location.reload();
+        } else {
+          getReader();
+        }
+      });
+
+      connectButton.disabled = false;
+    } else {
+      const apicheck = document.querySelector('h3.apicheck');
+      const noSerialSupportNotice = document.createElement('p');
+      noSerialSupportNotice.innerHTML = '<p class="notice">This browser does not support Web Serial API. Use Chrome and enable #enable-experimental-web-platform-features in chrome flags. </p>';
+
+      apicheck.parentNode.insertBefore(noSerialSupportNotice, apicheck.nextSibling);
+    }
+  </script>
+
+
+  <script>
+    let lineBuffer = '';
+    let latestValue = 0;
+    let buttonCount = 0;
+
+    const getValueButton = document.getElementById('getValue');
+
+    // function renderDemo() {
+    //   const rabbit = document.querySelector('.rabbit');
+    //   const percentage = Math.floor(latestValue / 1023 * 100);
+    //   const percentageStatus = document.querySelector('figcaption span');
+    //
+    //   rabbit.style.left = 'calc(' + percentage + '% - 2em)';
+    //   percentageStatus.innerText = percentage;
+    //
+    //   window.requestAnimationFrame(renderDemo);
+    // }
+    // window.requestAnimationFrame(renderDemo);
+    getValueButton.addEventListener("click", () => {
+      // console.log("button test");
+      if (port && port.writable) {
+        //const value = parseInt(event.target.value);
+        const value = getValueButton.value;
+        console.log(value);
+        var uint = new Uint8Array(value.length + 1);
+        for (var i = 0, j = value.length; i < j; ++i) {
+          uint[i] = value.charCodeAt(i);
+        }
+        //const bytes = new Uint8Array([value]);
+        uint[value.length] = 10; // /n
+        console.log(uint);
+        const writer = port.writable.getWriter();
+
+        writer.write(uint);
+        writer.releaseLock();
+      }
+    });
+    // getValueButton.addEventListener('button', (event) => {
+    //       if (port && port.writable) {
+    //         const value = parseInt(event.target.value);
+    //         console.log(value);
+    //         const bytes = new Uint8Array([value]);
+    //         const writer = port.writable.getWriter();
+    //
+    //         writer.write(bytes);
+    //         writer.releaseLock();
+    //       }
+    //     });
+
+    async function getReader() {
+      port = await navigator.serial.requestPort({});
+      await port.open({
+        baudrate: 115200
+      });
+
+      connectButton.innerText = '🔌 Disconnect';
+      //document.querySelector('figure').classList.remove('fadeOut');
+      //document.querySelector('figure').classList.add('bounceIn');
+
+      const appendStream = new WritableStream({
+        write(chunk) {
+          lineBuffer += chunk;
+
+          let lines = lineBuffer.split('\n');
+          let currentMessage = lines[0].trim();
+          console.log(currentMessage);
+
+          let updateCurrentMessage = document.getElementById('currentMessage');
+          updateCurrentMessage.innerHTML = currentMessage;
+
+          if (currentMessage == "pressed") {
+            let updateButtonCounter = document.getElementById('buttonPressed');
+            buttonCount++;
+            console.log(buttonCount);
+            updateButtonCounter.innerHTML = buttonCount;
+            sendMessage("1");
+          }
+          lineBuffer = '';
+
+        }
+      });
+
+      port.readable
+        .pipeThrough(new TextDecoderStream())
+        .pipeTo(appendStream);
+    }
+
+    function sendMessage(value) {
+      if (port && port.writable) {
+        //const value = parseInt(event.target.value);
+        let sendValue = value;
+        console.log("send value " + sendValue);
+        var uint = new Uint8Array(sendValue.length + 1);
+        for (var i = 0, j = sendValue.length; i < j; ++i) {
+          uint[i] = sendValue.charCodeAt(i);
+        }
+        //const bytes = new Uint8Array([value]);
+        uint[sendValue.length] = 10; // /n
+        console.log("uint " + uint);
+        const writer = port.writable.getWriter();
+
+        writer.write(uint);
+        writer.releaseLock();
+      }
+    }
+  </script>
+</body>
+
+</html>
