@@ -9,14 +9,15 @@
 <body>
 
   <h3 class="apicheck">Let's learn about Web Serial API.</h3>
-  <h3>Current Message <span id="currentMessage">0</span></h3>
-  <h3>Pressed counter: <span id="buttonPressed">0</span></h3>
-
   <button id="connect-button" type="button" disabled>🔌 Connect</button>
 
-  <!-- <input id="led-dimmer" type="range" min="0" max="255" value="0" class="demo bubble" disabled /> -->
+  <h3>Current Message <span id="currentMessage">0</span></h3>
 
-  <button id="getValue" type="button" value="25">Get Value</button>
+  <h3>Pressed counter: <span id="buttonPressed">0</span></h3>
+
+
+  <h3>Get Stock Value: <span id="CurrentStockValue">0</span></h3>
+  <button id="getValue" type="button">Get Value</button>
 
   <!-- Orignal Scripts from https://github.com/svendahlstrand/web-serial-api  -->
   <script>
@@ -52,48 +53,15 @@
     let buttonCount = 0;
 
     const getValueButton = document.getElementById('getValue');
+    getValueButton.addEventListener('click', function() {
+      getStock().then(response => {
+        console.log("Get Stock " + response);
+        let currentStock = response;
+        let updateStock = document.getElementById('CurrentStockValue');
+        updateStock.innerHTML = currentStock;
+      });
+    })
 
-    // function renderDemo() {
-    //   const rabbit = document.querySelector('.rabbit');
-    //   const percentage = Math.floor(latestValue / 1023 * 100);
-    //   const percentageStatus = document.querySelector('figcaption span');
-    //
-    //   rabbit.style.left = 'calc(' + percentage + '% - 2em)';
-    //   percentageStatus.innerText = percentage;
-    //
-    //   window.requestAnimationFrame(renderDemo);
-    // }
-    // window.requestAnimationFrame(renderDemo);
-    getValueButton.addEventListener("click", () => {
-      // console.log("button test");
-      if (port && port.writable) {
-        //const value = parseInt(event.target.value);
-        const value = getValueButton.value;
-        console.log(value);
-        var uint = new Uint8Array(value.length + 1);
-        for (var i = 0, j = value.length; i < j; ++i) {
-          uint[i] = value.charCodeAt(i);
-        }
-        //const bytes = new Uint8Array([value]);
-        uint[value.length] = 10; // /n
-        console.log(uint);
-        const writer = port.writable.getWriter();
-
-        writer.write(uint);
-        writer.releaseLock();
-      }
-    });
-    // getValueButton.addEventListener('button', (event) => {
-    //       if (port && port.writable) {
-    //         const value = parseInt(event.target.value);
-    //         console.log(value);
-    //         const bytes = new Uint8Array([value]);
-    //         const writer = port.writable.getWriter();
-    //
-    //         writer.write(bytes);
-    //         writer.releaseLock();
-    //       }
-    //     });
 
     async function getReader() {
       port = await navigator.serial.requestPort({});
@@ -102,8 +70,6 @@
       });
 
       connectButton.innerText = '🔌 Disconnect';
-      //document.querySelector('figure').classList.remove('fadeOut');
-      //document.querySelector('figure').classList.add('bounceIn');
 
       const appendStream = new WritableStream({
         write(chunk) {
@@ -111,7 +77,7 @@
 
           let lines = lineBuffer.split('\n');
           let currentMessage = lines[0].trim();
-          console.log(currentMessage);
+          console.log("Current Message " + currentMessage);
 
           let updateCurrentMessage = document.getElementById('currentMessage');
           updateCurrentMessage.innerHTML = currentMessage;
@@ -121,22 +87,10 @@
             buttonCount++;
             console.log(buttonCount);
             updateButtonCounter.innerHTML = buttonCount;
-
-            var change = 0;
-            //var buy = -1;
-            fetch('https://financialmodelingprep.com/api/v3/quote/%5EDJI')
-              .then(response => response.json())
-              .then(data => {
-                console.log(data[0]['change'])
-                change = data[0]['change'];
-                if(change >= 0){
-                  sendMessage("1");
-                }else{
-                  sendMessage("2");
-                }
-
-                //console.log(buy)
-                });
+            getStock().then(response => {
+              console.log("Get Stock " + response);
+              sendMessage(response.toString());
+            });
 
           }
           lineBuffer = '';
@@ -166,6 +120,19 @@
         writer.write(uint);
         writer.releaseLock();
       }
+    }
+
+    async function getStock(){
+      //var buy = -1;
+      return fetch('https://financialmodelingprep.com/api/v3/quote/%5EDJI')
+        .then(response => response.json())
+        .then(data => {
+          //console.log(data[0]['change'])
+          let change = 0;
+          change = data[0]['change'];
+          return change;
+        });
+
     }
   </script>
 </body>

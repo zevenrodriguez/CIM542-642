@@ -43,26 +43,16 @@ void serialEvent() {
       inputString += inChar;
     } else {
       stringComplete = true;
-      Serial.println(inputString);
-      Serial.flush();
-
     }
 
     if (stringComplete == true) {
-      if (inputString == "1") {
-        digitalWrite(ledPin, HIGH);
+      float curStock = inputString.toFloat();
+      Serial.println(curStock);
+      Serial.flush();
 
-        Serial.println("buy");
-        Serial.flush();
-
-      }
-      if (inputString == "2") {
-        digitalWrite(ledPin2, HIGH);
-
-        Serial.println("sell");
-        Serial.flush();
-
-      }
+      // do something with inputString data
+      
+      
       stringComplete = false;
       inputString = "";
     }
